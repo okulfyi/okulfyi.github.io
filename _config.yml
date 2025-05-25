@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: tr-TR
 
 # Site title
-title: "Scriptor"
+title: "okul.fyi Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "K-12 Yöneticisinin Güncesi | #education #tech #edtech"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -28,13 +28,13 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Ana Sayfa
     url: /
-  - text: About
+  - text: Hakkında
     url: /about/
   - text: Style Guide
     url: /style-guide/
-  - text: Tags
+  - text: Arşiv
     url: /tags/
   - text: Download
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
@@ -43,7 +43,7 @@ navigation:
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#007A6F'
 
 # Site footer
 footer:
