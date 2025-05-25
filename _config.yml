@@ -15,10 +15,10 @@ title: "Scriptor"
 description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "okulfyi.github.io"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://okulfyi.github.io"
 
 # Favicon
 favicon: images/favicon.png
