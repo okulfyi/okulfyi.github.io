@@ -27,7 +27,7 @@ Kaliforniya’da 2030'a kadar nüfusun %25'inin 60+ yaş grubuna gireceği, Japo
 
 #### A. Öğrenci Başına Gelir Modelinin Çöküşü
 
-Yine Kaliforniya eyaletinde sadece 2022-2023 akademik yılında 4 milyar dolarlık "hayalet öğrenci" (devletin finansal yardımlarından yararlanma amacıyla eğitim kurumlarındaki başvuru sistemleri üzerinden oluşturulan sahte öğrenci kayıtları) harcaması yapılarak kamunun zarara uğratılmış olması, İngiltere'de 2030'a kadar etkisini gösterecek olan 1 milyar sterlinlik bütçe açığı, Şili'de kırsal okulların %34'ünün kapanma riski gibi olumsuz gelişmeler geleneksel finansman modellerinin sürdürülemezliğini kanıtlar nitelikte. “Öğrenci başına harcama”nın yüksek olduğu gelişmiş ülkelerde yaşanan  demografik darboğaz, “eğitim kalitesi” ile “bütçe disiplini” arasında ikilem yaratmaya başlamış durumda.
+Yine Kaliforniya eyaletinde sadece 2022-2023 akademik yılında 4 milyar dolarlık "[hayalet öğrenci](https://reason.org/education-newsletter/ghost-students-strip-taxpayers-pocketbooks-bare/)" (devletin finansal yardımlarından yararlanma amacıyla eğitim kurumlarındaki başvuru sistemleri üzerinden oluşturulan sahte öğrenci kayıtları) harcaması yapılarak kamunun zarara uğratılmış olması, İngiltere'de 2030'a kadar etkisini gösterecek olan 1 milyar sterlinlik bütçe açığı, Şili'de kırsal okulların %34'ünün kapanma riski gibi olumsuz gelişmeler geleneksel finansman modellerinin sürdürülemezliğini kanıtlar nitelikte. “Öğrenci başına harcama”nın yüksek olduğu gelişmiş ülkelerde yaşanan  demografik darboğaz, “eğitim kalitesi” ile “bütçe disiplini” arasında ikilem yaratmaya başlamış durumda.
 
 #### B. Alternatif Finansman Arayışları
 
@@ -78,7 +78,7 @@ Norveç'te balıkçılık şirketlerinin denizcilik lisesi sponsorlukları, Şil
 Türkiye’nin aralarında gösterilebileceği önder ülkelerde K-12 eğitim modellerinin yaşlanan nüfus ve azalan öğrenci havuzuyla başa çıkabilmesi için:
 
 + **Finansal Esneklik:** "Öğrenci başı gelir" modelinden "çoklu finansman kaynakları"na geçiş  
-+ **Altyapı Geçişkenliği:** Fiziksel mekanların çok işlevli kullanımı ve dijital ikiz teknolojiler  
++ **Altyapı Geçişkenliği:** Fiziksel mekanların çok işlevli kullanımı ve [dijital ikiz teknolojiler](https://aws.amazon.com/tr/what-is/digital-twin/)  
 + **İnsan Kaynağı Çevikliği:** Mikro-sertifikasyonlar ile donanmış disiplinler arası öğretmen profili  
 
 yaklaşımlarının daha yakından irdelenmesi muhakkak yarar sağlayacaktır.  Başta örneklediğimiz “Kaliforniya” deneyiminin gösterdiği üzere, demografik dönüşüm aslında “kriz” değil, eğitim sistemlerini 22. yüzyıla taşıyacak radikal inovasyonlar için bir “fırsat” penceresi. Bu süreçte "uluslararası iş birlikleri", "veriye dayalı politikalar" ve "paydaş (K-12 eğitimi yöneticisi, K-12 öğretmeni, ebeveyn ve öğrenci) katılımı" kritik başarı faktörleri olacaktır.
