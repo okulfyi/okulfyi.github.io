@@ -7,7 +7,7 @@ feature_image: images/i250526001.jpg
 tags: [k-12, demografi, eğitim, politika]
 ---
 
-ABD’nin Kaliforniya eyaletinde 2014 yılında yaklaşık 512 bin olan anaokulu öğrenci kaydı sayısının, 2024-2025 eğitim yılına geldiğimizde 365 bine kadar gerilemiş olması, dünya genelinde K-12 eğitim sistemlerini bekleyen demografik tsunamiye dair çarpıcı bir örnek. BM projeksiyonlarına göre 2100 yılına kadar 198 ülkenin nüfus yenilenme eşiğinin altına düşeceği, OECD verilerine göre ise 2031'e kadar 5-14 yaş grubunda küresel ölçekte %13-20 arası düşüş öngörülüyor. 
+ABD’nin Kaliforniya eyaletinde 2014 yılında yaklaşık 512 bin olan anaokulu öğrenci kaydı sayısının, 2024-2025 eğitim yılına geldiğimizde 365 bine kadar [gerilemiş](https://www.aol.com/ca-k-12-shrinks-birth-180000657.html#:~:text=In%20the%202024%2D25%20academic%20year%2C%20there%20are%20now%20365%2C002%20kindergarteners%20and%20488%2C295%2012th%20graders%2C%20indicating%20rapid%20demographic%20decline.) olması, dünya genelinde K-12 eğitim sistemlerini bekleyen demografik tsunamiye dair çarpıcı bir örnek. BM projeksiyonlarına göre 2100 yılına kadar 198 ülkenin nüfus yenilenme eşiğinin altına düşeceği, OECD verilerine göre ise 2031'e kadar 5-14 yaş grubunda küresel ölçekte %13-20 arası düşüş öngörülüyor. 
 
 Bu makale, demografik çöküş ve yaşlanma olgularının eğitim finansmanından öğretmen istihdamına, altyapı planlamasından dijital dönüşüme uzanan çok boyutlu etkilerini Kaliforniya örneğinden yola çıkarak küresel bir perspektifle ele alıyor.
 
@@ -41,13 +41,13 @@ Japonya'da 2015-2025 döneminde 1.840 kırsal okulun kapatılarak 437 süper oku
 
 #### B. Öğretmen Politikalarında Denge Arayışı
 
-ABD'de öğretmen başına düşen öğrenci sayısı 15,3. Japonya’da 2025’te 48 bin öğretmen fazlası, aksi şekilde Almanya’da ise STEM alanlarında %12 öğretmen açığı var. Bu durum birçok geleneksel branşta öğretmen fazlası gözlemlenmeye başlanmışken bazı "yeni" sayılabilecek dallarda (STEM, robotik kodlama vb. gibi) ise öğretmen açığı yaşanabileceğine işaret ediyor. Açığın tecrübe edildiği coğrafyalarda ve branşlarda örn. Norveç’in dönüşümlü öğretmenlik modeline ya da Şili’nin uzaktan sertifikasyon programlarına benzer çözümler uygulanması işe yarayabiliyorken, değişen paradigmada "öğretmen fazlası"nın önüne nasıl geçilebileceği, öğretmen havuzunun "yeni" ve "ihtiyaç duyulan" branşlara nasıl kanalize edilebileceği sorusu ise yanıt arayışını sürdürüyor.
+ABD'de öğretmen başına düşen öğrenci sayısı 15,3. Japonya’da 2025’te 48 bin öğretmen fazlası, aksi şekilde Almanya’da ise STEM alanlarında %12 öğretmen açığı var. Bu durum birçok geleneksel branşta öğretmen fazlası gözlemlenmeye başlanmışken bazı "yeni" sayılabilecek dallarda ([STEM](https://scientix.eba.gov.tr/stem/), robotik kodlama vb. gibi) ise öğretmen açığı yaşanabileceğine işaret ediyor. Açığın tecrübe edildiği coğrafyalarda ve branşlarda örn. Norveç’in dönüşümlü öğretmenlik modeline ya da Şili’nin uzaktan sertifikasyon programlarına benzer çözümler uygulanması işe yarayabiliyorken, değişen paradigmada "öğretmen fazlası"nın önüne nasıl geçilebileceği, öğretmen havuzunun "yeni" ve "ihtiyaç duyulan" branşlara nasıl kanalize edilebileceği sorusu ise yanıt arayışını sürdürüyor.
 
 ## IV. Dijital Dönüşüm ve Pedagojik İnovasyon
 
 #### A. Hibrit Eğitim Modellerinin Yükselişi
 
-Kaliforniya'nın 2025'e kadar 600 dijital öğrenme merkezi hedefi, Şili'nin 1,2 milyon öğrenciye ulaşan "Aprendo en Casa (Evde Öğrenme)" platformu, Finlandiya'nın VR tabanlı sınıf deneyimi gibi örnekler geçmişten gelen geleneksel eğitim anlayışını hızla dönüştürmekte. OECD verilerine göre 2030'a kadar kırsal kesimde öğrenim gören öğrencilerin %47'sinin hibrit modellere geçmiş olacağı tahmin ediliyor.
+Kaliforniya'nın 2025'e kadar 600 dijital öğrenme merkezi hedefi, Şili'nin 1,2 milyon öğrenciye ulaşan "Aprendo en Casa (Evde Öğrenme)" platformu, Finlandiya'nın VR tabanlı sınıf deneyimi gibi örnekler geçmişten gelen geleneksel eğitim anlayışını hızla dönüştürmekte. OECD verilerine göre 2030'a kadar kırsal kesimde öğrenim gören öğrencilerin %47'sinin [hibrit modellere](https://tr.wikipedia.org/wiki/Harmanlanm%C4%B1%C5%9F_%C3%B6%C4%9Frenme) geçmiş olacağı tahmin ediliyor.
 
 #### B. Müfredatta Demografik Gerçekliğe Uyum
 
