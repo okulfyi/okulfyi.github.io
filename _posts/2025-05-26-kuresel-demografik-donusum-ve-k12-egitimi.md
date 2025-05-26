@@ -31,7 +31,7 @@ Kaliforniya'da 2022-23’te 4 milyar dolarlık “hayalet öğrenci” ödemesi 
 
 ## B. Alternatif Finansman Arayışları
 
-Finlandiya'nın kırsal okul birleştirmeleriyle %22, Norveç'in çok sınıflı modeliyle %17, Şili'nin dijital platformlarıyla %34 tasarruf sağlandığı görülüyor.
+Finlandiya'nın kırsal okul birleştirmeleriyle %22, Norveç'in çok sınıflı modeliyle %17, Şili'nin uzaktan eğitim odaklı dijital platformlarıyla %34 tasarruf sağlandığı görülüyor.
 
 # III. Altyapı ve Öğretmen İstihdamında Paradigma Kayması
 
@@ -41,7 +41,7 @@ Japonya'da 2015-2025 döneminde 1.840 kırsal okul 437 süper okula dönüştür
 
 ## B. Öğretmen Politikalarında Denge Arayışı
 
-ABD'de öğretmen başına düşen öğrenci sayısı 15.3. Japonya’da 2025’te 48,000 öğretmen fazlası, Almanya’da ise STEM alanlarında %12 öğretmen açığı var. Norveç’in dönüşümlü öğretmenlik modeli ve Şili’nin uzaktan sertifikasyon programları çözüm olarak öne çıkıyor.
+ABD'de öğretmen başına düşen öğrenci sayısı 15.3. Japonya’da 2025’te 48,000 öğretmen fazlası, aksi şekilde Almanya’da ise STEM alanlarında %12 öğretmen açığı var. Bu durum birçok geleneksel branşta öğretmen fazlası gözlemlenmeye başlanmışken bazı "yeni" sayılabilecek dallarda (STEM, robotik kodlama vb. gibi) ise öğretmen açığı yaşanabileceğine işaret ediyor. Açığın tecrübe edildiği coğrafyalarda ve branşlarda Norveç’in dönüşümlü öğretmenlik modeli ve Şili’nin uzaktan sertifikasyon programlarına benzer çözümler işe yarayabilecekken, değişen paradigmada "öğretmen fazlası"nın önüne nasıl geçilebileceği, öğretmen havuzunun "yeni" ve "ihtiyaç duyulan" branşlara nasıl kanalize edilebileceği sorusu yanıt arayışını sürdürüyor.
 
 # IV. Dijital Dönüşüm ve Pedagojik İnovasyon
 
