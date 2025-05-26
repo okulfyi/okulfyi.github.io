@@ -11,6 +11,8 @@ ABD’nin Kaliforniya eyaletinin 2014’te 511.985 olan anaokulu (kindergarten) 
 
 Bu makale, demografik çöküş ve yaşlanma olgularının eğitim finansmanından öğretmen istihdamına, altyapı planlamasından dijital dönüşüme uzanan çok boyutlu etkilerini Kaliforniya örneğinden yola çıkarak küresel bir perspektifle ele alıyor.
 
+<!--more-->
+
 # I. Demografik Değişimin Anatomisi: Nüfus Piramidinin Ters Dönüşü
 
 ## A. Doğurganlık Oranlarındaki Çöküşün Küresel Yayılımı
