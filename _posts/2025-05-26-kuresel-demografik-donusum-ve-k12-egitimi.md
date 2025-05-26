@@ -6,11 +6,6 @@ date: 2025-05-26
 feature_image: images/road.jpg
 tags: [k-12, demografi, eğitim, politika]
 ---
----
-layout: page
-title: Küresel Demografik Dönüşümün K-12 Eğitim Sistemlerine Etkisi
-description: Demografik değişimlerin K-12 eğitimine etkileri ve stratejik çözümler
----
 
 ABD’nin Kaliforniya eyaletinin 2014’te 511.985 olan anaokulu (kindergarten) kayıtlarının 2024-2025 eğitim yılında 365.002’ye kadar gerilemiş olması, dünya genelinde K-12 eğitim sistemlerini bekleyen demografik tsunamiye dair çarpıcı bir örnek. BM projeksiyonlarına göre 2100 yılına kadar 198 ülkenin nüfus yenilenme eşiğinin altına düşeceği, OECD verilerine göre ise 2031'e kadar 5-14 yaş grubunda küresel ölçekte %13-20 arası düşüş öngörülüyor. 
 
