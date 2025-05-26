@@ -3,7 +3,7 @@ layout: post
 title: "Küresel Demografik Dönüşümün K-12 Eğitim Modellerine Etkisi: Politikalar, Zorluklar ve Yenilikçi Çözümler"
 description: "A graphic designer is a professional within the graphic design and graphic arts industry."
 date: 2025-05-26
-feature_image: images/road.jpg
+feature_image: images/i250526001.jpg
 tags: [k-12, demografi, eğitim, politika]
 ---
 
