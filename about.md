@@ -10,4 +10,4 @@ permalink: /about/
 
 >Eğitim hayata hazırlık değildir; eğitim hayatın kendisidir. <cite>John Dewey</cite>
 
-Birlikte K-12 eğitimini dünkünden daha iyi kılalım!
+Birlikte K-12 eğitimini dünkünden iyi kılalım!
