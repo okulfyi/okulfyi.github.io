@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+title: okul.fyi Blog Hakkında
+description: K-12 Yöneticisinin Güncesi | #eğitim #teknoloji #edtech
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**okul.fyi Blog** K-12 ölçeğinde eğitimin dinamik dünyasını eğitim politikalarında, pedagojide / eğitim bilimlerinde ve teknolojide gelişmeler ekseninde ele alıyor. Okul yöneticileri, müfredat tasarımcıları ve eğitim liderleri için; sınıf içi uygulamalardan dijital dönüşüme, eğitim stratejisi geliştirme girişimlerinden öğrenci merkezli modellere kadar geniş bir skalada geçmişten bugüne uzanan çözümler ve trendleri derliyor, "bunu tartışalım" diyoruz. Küresel örneklerle K-12 ölçeği eğitim kurumlarının hem öğrenci başarısını hem de kurumsal gelişimi desteklemesine rehberlik edebilmek, bu mecrada okuyacağınız yazıların ana amaçlarından.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+>Eğitim hayata hazırlık değildir; eğitim hayatın kendisidir. <cite>John Dewey</cite>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Birlikte K-12 eğitimini dünkünden daha iyi kılalım!
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+*Okuduğunuz / paylaştığınız için teşekkürler!*
