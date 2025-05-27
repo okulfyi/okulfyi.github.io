@@ -1,7 +1,7 @@
 ---
 layout: page
-title: okul.fyi Blog Hakkında
-description: K-12 Yöneticisinin Güncesi | #eğitim #teknoloji #edtech
+title: 
+description: okul.fyi Blog | K-12 Yöneticisinin Güncesi | #eğitim #teknoloji #edtech
 feature_image: images/about.jpg
 permalink: /about/
 ---
