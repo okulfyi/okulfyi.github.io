@@ -87,3 +87,7 @@
 .fa-dev:before {
   content: "\f6cc";
 }
+.fa-x:before,
+.fa-x-twitter:before {
+  content: "𝕏"; /* Unicode X karakteri */
+}
