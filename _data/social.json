@@ -1,24 +1,29 @@
 {
   "links": [
     {
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/"
+      "title": "Email",
+      "icon": "fa-envelope",
+      "url": "mailto:blog@okul.fyi"
     },
     {
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/"
+      "title": "X",
+      "icon": "fa-x",
+      "url": "https://www.x.com/okulfyi"
     },
     {
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/okulfyi"
+    },
+    {
+      "title": "Medium",
+      "icon": "fa-medium",
+      "url": "http://medium.com/@okulfyi"
     },
     {
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.linkedin.com/company/okulfyi"
     }
   ]
 }
