@@ -12,7 +12,7 @@ lang: tr-TR
 title: "okul.fyi Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "K-12 Yöneticisinin Güncesi | #education #tech #edtech"
+description: "K-12 Yöneticisinin Güncesi | #eğitim #teknoloji #edtech"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
