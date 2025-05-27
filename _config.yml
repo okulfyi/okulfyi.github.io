@@ -32,12 +32,8 @@ navigation:
     url: /
   - text: Hakkında
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
   - text: Arşiv
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
