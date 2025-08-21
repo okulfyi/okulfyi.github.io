@@ -7,7 +7,7 @@ feature_image: images/i250821001.jpg
 tags: [k-12, siber-güvenlik, güvenlik, kvkk, okul]
 ---
 
-K-12 eğitim kurumlarında dijital araçlar yoğun şekilde kullanılıyor ki bu da siber güvenlik risklerini beraberinde getiriyor. Okulların, öğrenci ve personel hakkında çok sayıda kişisel ve finansal veri barındırdıkları için saldırganların "hedef açısından zengin, siber güvenlik açısından yetersiz" gördüğü kurumlar haline geldiği gözlemlenmekte[[1]](https://www.cisa.gov/K12Cybersecurity). ABD'deki bir araştırmaya göre her okulda günde en az bir siber olay yaşanıyor[[2]](https://www.cisa.gov/K12Cybersecurity). Bu veriler, K-12 okullarının saldırganlar tarafından kolay hedef olarak görüldüğünü gösteriyor olabilir.
+K-12 eğitim kurumlarında dijital araçlar yoğun şekilde kullanılıyor ve bu da birçok siber güvenlik riskini beraberinde getirmekte. Okulların yüksek hacimde kişisel / kurumsal veriye sahip olması, onları siber saldırganların gözünde "hedef açısından zengin, siber güvenlik açısından yetersiz" yapılara dönüştürüyor[[1]](https://www.cisa.gov/K12Cybersecurity). ABD'deki bir araştırmaya göre her okulda günde en az bir siber olay yaşanıyor[[2]](https://www.cisa.gov/K12Cybersecurity). Bu veriler, K-12 okullarının saldırganlar tarafından kolay hedef olarak görüldüğünü gösteriyor olabilir.
 
 <!--more-->
 
