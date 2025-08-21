@@ -1,10 +1,10 @@
-K-12 eğitim kurumları, artan dijitalleşmenin getirdiği avantajları bir yandan kullanırken diğer yandan yeni siber risklerle karşı karşıya. Güncel veriler açıkça gösteriyor ki okullar saldırganların gözünde değerli hedefler[[3]](https://www.cisecurity.org/insights/white-papers/2025-k12-cybersecurity-report)[[11]](https://www.knowbe4.com/hubfs/Global-Education-Report_US_EN.pdf). Mevcut durumda ise bütçe ve kaynak eksikliği, güvenlik algısındaki yanlış değerlendirmeler ve eğitimsizlik gibi zorluklar okulları olası saldırılara karşı kırılganlaştırıyor[[9]](https://www.cosn.org/wp-content/uploads/2025/05/EdTechLeadership_2025_F2.pdf)[[10]](https://www.cosn.org/wp-content/uploads/2025/05/EdTechLeadership_2025_F2.pdf). Bu kırılganlığı gidermek, okul idarelerinin, öğretmenlerin ve politika yapıcıların öncelikli sorumluluğu. Yatırım ve eğitimle güçlendirilen bir siber güvenlik kültürü, okulların sadece teknik altyapısını değil; aynı zamanda öğrencilerin, ailelerin ve tüm toplumun güvenliğini de teminat altına alır. Unutulmamalı ki okullar risklerden korunduğu ölçüde toplum da güvende olacak[[17]](https://www.cisecurity.org/insights/white-papers/2025-k12-cybersecurity-report)[[8]](https://---
+---
 layout: post
 title: "K-12 Okullarında Siber Güvenlik: Artık Daha Kritik!"
-description: "K-12 eğitim kurumlarında dijital araçların yoğun kullanımının getirdiği siber güvenlik risklerini, saldırıların toplumsal etkilerini ve çözüm önerilerini kapsamlı şekilde inceleyen analiz. Eğitim yöneticileri ve politika yapıcıları için kritik güvenlik rehberi."
+description: "K-12 eğitim kurumlarında dijital araçların yoğun kullanımının getirdiği siber güvenlik risklerini, saldırıların toplumsal etkilerini ve çözüm önerilerini kapsamlı şekilde inceleyen analiz. Eğitim yöneticileri ve politika yapıcıları için kritik güvenlik rehberi. #K12 #Sibergüvenlik #Bilişim"
 date: 2025-08-21
-feature_image: images/i250821002.jpg
-tags: [k-12, siber-güvenlik, eğitim, güvenlik]
+feature_image: images/i250526001.jpg
+tags: [k-12, siber-güvenlik, güvenlik, kvkk, okul]
 ---
 
 K-12 eğitim kurumlarında dijital araçlar yoğun şekilde kullanılıyor ki bu da siber güvenlik risklerini beraberinde getiriyor. Okulların, öğrenci ve personel hakkında çok sayıda kişisel ve finansal veri barındırdıkları için saldırganların "hedef açısından zengin, siber güvenlik açısından yetersiz" gördüğü kurumlar haline geldiği gözlemlenmekte[[1]](https://www.cisa.gov/K12Cybersecurity). ABD'deki bir araştırmaya göre her okulda günde en az bir siber olay yaşanıyor[[2]](https://www.cisa.gov/K12Cybersecurity). Bu veriler, K-12 okullarının saldırganlar tarafından kolay hedef olarak görüldüğünü gösteriyor olabilir.
