@@ -3,7 +3,7 @@ layout: post
 title: "K-12 Okullarında Siber Güvenlik: Artık Daha Kritik!"
 description: "K-12 eğitim kurumlarında dijital araçların yoğun kullanımının getirdiği siber güvenlik risklerini, saldırıların toplumsal etkilerini ve çözüm önerilerini kapsamlı şekilde inceleyen analiz. Eğitim yöneticileri ve politika yapıcıları için kritik güvenlik rehberi. #K12 #Sibergüvenlik #Bilişim"
 date: 2025-08-21
-feature_image: images/i250526001.jpg
+feature_image: images/i250821001.jpg
 tags: [k-12, siber-güvenlik, güvenlik, kvkk, okul]
 ---
 
