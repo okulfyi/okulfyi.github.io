@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Ödev" Meselesini Tekrar Düşünmek: Veriye Dayalı Bir Kılavuz"
+title: "Ödev Meselesini Tekrar Düşünmek: Veriye Dayalı Bir Kılavuz"
 description: "K-12 eğitiminde yüz yıllık ödev tartışmasını son 15 yıldaki araştırma verileriyle yeniden değerlendiren kapsamlı analiz. Ödevin etkinliği, yaş gruplarına göre farklılıklar, tasarım ilkeleri ve öğrenci refahına etkileri bilimsel verilerle inceleniyor. #Eğitim #Ödev #K12"
 date: 2025-11-17
 feature_image: images/i251117001.jpg
-tags: [egitim, ödev, k-12, pedagoji, öğrenme]
+tags: [k-12, eğitim, ödev, pedagoji, öğrenme]
 ---
 
 Ödev tartışması özellikle K-12 evreninin süregelen bir rutini. Yüz yılı aşkın bir süredir ebeveynler, eğitimciler ve diğer reformcular ev ödevlerinin değeri konusunda tartışmaktalar. 1900'lü yılların başlarına uzanan makalelerde dahi konunun şiddetli biçimde tartışıldığını görüyoruz. Dönemin Pulitzer ödüllü yazarı Edward Bok, ev ödevinin yaygın ve sistematik bir şekilde çocuklara zarar verdiğini düşündüğü için bunu "suç" olarak nitelendiriyor ve sorumluluğun ebeveynlerde olduğunu ima ediyordu: Ona göre ebeveynler bu duruma karşı çıkmadıkları için bu "suç" onların sessiz onayıyla gerçekleşmekteydi[[1]](https://www.brookings.edu/articles/homework-in-america/). Bok'a göre çocuklar fiziksel güçlerinin ve dolayısıyla zihinsel sağlıklarının çok ötesinde çalışmaya zorlanıyordu ve aslında ilkokul ve ortaokul öğrencilerinin okuldan eve kitap taşımalarına bile gerek yoktu çünkü okuldan çıktıktan sonra akşam yemeğine kadar arkadaşlarıyla dışarıda olmaları, sonrasında ise uyumaları gerekirdi. Yazar özetle "Bir çocuğun kendisine ait oyun zamanını elinden almak büyük bir adaletsizliktir." tezini savunmuş, "On beş yaşın altındaki hiçbir çocuğa öğretmenleri tarafından ev ödevi verilmemelidir." önerisinden geri adım atmamıştı.
