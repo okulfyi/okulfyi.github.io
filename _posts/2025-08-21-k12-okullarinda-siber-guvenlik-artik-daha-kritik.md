@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "K-12 Okullarında Siber Güvenlik: Artık Daha Kritik!"
-description: "K-12 eğitim kurumlarında dijital araçların yoğun kullanımının getirdiği siber güvenlik risklerini, saldırıların toplumsal etkilerini ve çözüm önerilerini kapsamlı şekilde inceleyen analiz. Eğitim yöneticileri ve politika yapıcıları için kritik güvenlik rehberi. #K12 #Sibergüvenlik #Bilişim"
-date: 2025-08-21
-feature_image: images/i250821001.jpg
-tags: [k-12, siber-güvenlik, güvenlik, kvkk, okul]
+title: "Ödev" Meselesini Tekrar Düşünmek: Veriye Dayalı Bir Kılavuz"
+description: "K-12 eğitiminde yüz yıllık ödev tartışmasını son 15 yıldaki araştırma verileriyle yeniden değerlendiren kapsamlı analiz. Ödevin etkinliği, yaş gruplarına göre farklılıklar, tasarım ilkeleri ve öğrenci refahına etkileri bilimsel verilerle inceleniyor. #Eğitim #Ödev #K12"
+date: 2025-11-17
+feature_image: images/i251117001.jpg
+tags: [eğitim, ödev, k-12, pedagoji, öğrenme]
 ---
 
 K-12 eğitim kurumlarında dijital araçlar yoğun şekilde kullanılıyor ve bu da birçok siber güvenlik riskini beraberinde getirmekte. Okulların yüksek hacimde kişisel / kurumsal veriye sahip olması, onları siber saldırganların gözünde "hedef açısından zengin, siber güvenlik açısından yetersiz" yapılara dönüştürüyor[[1]](https://www.cisa.gov/K12Cybersecurity). ABD'deki bir araştırmaya göre her okulda günde en az bir siber olay yaşanıyor[[2]](https://www.cisa.gov/K12Cybersecurity). Bu nedenle okulların siber güvenliğe yatırım yapması, yalnızca bilgisayar ağlarını değil bütün bir eğitim ekosistemini ve hatta toplumu korumak anlamına geliyor.
