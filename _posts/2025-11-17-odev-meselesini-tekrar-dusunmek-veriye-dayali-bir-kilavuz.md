@@ -101,7 +101,7 @@ Aslında bu etkileyici bir ders: Amaç "ödevleri yasaklamak" değil "değeri d�
 
 ## V. Sonuç Olarak...
 
-2010-2025 yılları arasındaki raporlanan veriler ve çıkarımlar, K-12 eğitim dünyasındaki yüz yıllık tartışmayı geride bırakabileceğimizi gösteriyor: Ödevin değeri onun "öz"ünden gelen bir şey değil. Yani "ödev" denen şey "bilinçli, düşünceli ve empatik bir tasarımın çıktısı (ürünü)" olarak kabul edilmeli.
+2010-2025 yılları arasında raporlanan veriler ve çıkarımlar, K-12 eğitim dünyasındaki yüz yıllık tartışmayı geride bırakabileceğimizi gösteriyor: Ödevin değeri onun "öz"ünden gelen bir şey değil. Yani "ödev" denen şey "bilinçli, düşünceli ve empatik bir tasarımın çıktısı (ürünü)" olarak kabul edilmeli.
 
 Bulgular gösteriyor ki ödev "tek tip", "aşırı" ve/veya "ön kabulleri açısından adaletsiz/mantıksız" olduğunda yarardan çok zarar doğurabilir. Diğer yandan (i) gelişimsel olarak uygun (örn. ilkokulda minimum düzeyde, ortaokulda ise odaklanmış nitelikte), (ii) içsel olarak motive edici (özerklik, yetkinlik ve ilişkililik gözetilerek tasarlanmış; bkz. *Bölüm IV.b*) ve (iii) "eylem odaklı" dönüt sağlanabilecek temelde oluşturulduğunda öğrenmeyi genişletmek için güçlü bir araç haline dönüşeceği de kuşkusuz.
 
