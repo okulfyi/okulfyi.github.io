@@ -230,7 +230,7 @@ https://www.researchgate.net/publication/394069854_FEEDBACK_UNVEILING_ITS_IMPACT
 [46] PATTAN. (n.d.). *Homework basics*. Pennsylvania Training and Technical Assistance Network.  
 https://www.pattan.net/getmedia/9464e7e6-26cf-4c4e-92df-20f942e4
 
-[47] Ma, T., & Wou, M. (2025). Students' perceptions and outcomes of teacher feedback in elementary and lower secondary education. *Frontiers in Education*.
+[47] Brandmo, C., & Gamlem, S. M. (2025). Students' perceptions and outcomes of teacher feedback in elementary and lower secondary education. *Frontiers in Education*.
 https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1572950/full
 
 [48] Bayerlein, L. (2014). The timeliness of feedback. *SSRN*. (Cited in https://www.tandfonline.com/doi/full/10.1080/02602938.2025.2449891)
