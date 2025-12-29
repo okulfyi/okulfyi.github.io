@@ -3,7 +3,7 @@ layout: post
 title: "Sentor Dersliği: Yapay Zekanın K-12 Eğitiminin Geleceğindeki Yeri"
 description: "K-12 eğitiminde sorumlu YZ (yapay zeka) yaklaşımlarının, sınıf içi öğrenme deneyimlerini nasıl dönüştürdüğünü ve geleceğin dijital dersliklerini nasıl şekillendirdiğini ele alan bir inceleme. #K12 #YZ #Eğitim #EdTech"
 date: 2025-12-29
-feature_image: images/i251117001.jpg
+feature_image: images/i251229001.jpg
 tags: [k-12, yapay-zeka, YZ, eğitim, pedagoji, edtech]
 ---
 
