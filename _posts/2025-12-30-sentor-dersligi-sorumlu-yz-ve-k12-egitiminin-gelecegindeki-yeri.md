@@ -1,12 +1,23 @@
-# *Sentor* Dersliği: Sorumlu Yapay Zeka ve K-12 Eğitiminin Geleceğindeki Yeri
-
-## I. Dersliğin Geometrisi ve *Sentor*'un Vaadi
+---
+layout: post
+title: "Sentor Dersliği: Yapay Zekanın K-12 Eğitiminin Geleceğindeki Yeri"
+description: "K-12 eğitiminde sorumlu YZ (yapay zeka) yaklaşımlarının, sınıf içi öğrenme deneyimlerini nasıl dönüştürdüğünü ve geleceğin dijital dersliklerini nasıl şekillendirdiğini ele alan bir inceleme. #K12 #YZ #Eğitim #EdTech"
+date: 2025-12-30
+feature_image: images/i251117001.jpg
+tags: [k-12, yapay-zeka, YZ, eğitim, pedagoji, edtech]
+---
 
 *Sentor (Centaur; Kentaur): Yarı insan ve yarı at bedenli mitolojik karakter.*
 
 Şunu bir düşünün: Son iki yüzyıldır dünya çapında milyonlarca öğrenci hep aynı geometrik düzenle karşılaştı. Dikdörtgen sınıflar (derslikler), çizgi halinde dizilmiş sıralar, önde duran tek bir öğretmen. Sanayi Devrimi'nin mirası olan bu "fabrika modeli" eğitim sisteminin temel varsayımı basitti: Aynı yaştaki, aynı mahalleden gelen çocuklar kabaca aynı şekilde öğrenirler.
 
-Ancak her deneyimli eğitimci şunu bilir ki bu yalnızca bir varsayım. Gerçekte her öğrenci farklı. Biri ikinci dereceden denklemleri sezgisel olarak kavrarken duygusal düzenlemede zorlanır; diğeri derinlikli şiirler yazarken zaman yönetiminde başarısız olur. İnsan öğrenmesinin bu girintili çıkıntılı yapısı, her zaman standardizasyonun önündeki en büyük engel oldu.
+Ancak her deneyimli eğitimci şunu bilir ki bu yalnızca bir varsayım.
+
+<!--more-->
+
+Gerçekte her öğrenci farklı. Biri ikinci dereceden denklemleri sezgisel olarak kavrarken duygusal düzenlemede zorlanır; diğeri derinlikli şiirler yazarken zaman yönetiminde başarısız olur. İnsan öğrenmesinin bu girintili çıkıntılı yapısı, her zaman standardizasyonun önündeki en büyük engel oldu.
+
+## I. Dersliğin Geometrisi ve *Sentor*'un Vaadi
 
 K-12 eğitiminin yüzyıllardır çözemediği bu "farklılaştırmma ikilemi"ni eğitim psikoloğu Benjamin Bloom 1984'te çarpıcı bir şekilde ortaya koydu: Bire bir özel ders alan öğrenciler, geleneksel sınıflardaki akranlarına göre iki standart sapma daha iyi performans gösteriyordu. Bu bulgular "2 Sigma Sorunu" olarak literatüre geçti. Trajik olan ise çözümün pratikte uygulanamaz olmasıydı: Toplum her çocuğa özel öğretmen tutacak kadar zengin değildi.
 
