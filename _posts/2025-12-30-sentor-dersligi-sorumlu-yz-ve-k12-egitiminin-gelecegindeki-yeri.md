@@ -309,11 +309,11 @@ Eğer YZ'nin insanı "başka bir şeyle değiştirmek" yerine "güçlendirdiği"
 
 [12] Eduten. (2024). The power of personalized learning. *Medium*. https://eduten.medium.com/the-power-of-personalized-learning-f620cf968a70
 
-[13] Sitra. (2024). Maths assignments tailored with Eduten's data improve learning outcomes. https://arkisto.sitra.fi/en/cases/maths-assignments-tailored-with-edutens-data-improve-learning-outcomes/
+[13] Kippo, J. (2024). Maths assignments tailored with Eduten's data improve learning outcomes. https://arkisto.sitra.fi/en/cases/maths-assignments-tailored-with-edutens-data-improve-learning-outcomes/
 
-[14] ResearchGate. (2021). A differentiated discussion about AI education K-12. https://www.researchgate.net/publication/351568923_A_Differentiated_Discussion_About_AI_Education_K-12
+[14] Steinbauer-Wagner, G., Kandlhofer, M., Chklovski, T., Heintz, F., & Koenig, S. (2021). A differentiated discussion about AI education K-12. https://www.researchgate.net/publication/351568923_A_Differentiated_Discussion_About_AI_Education_K-12
 
-[15] Cabrera, L., Gomez, M., & Torres, R. (2024). AI and education: Building the future through digital transformation. *Inter-American Development Bank Publications*. https://publications.iadb.org/publications/english/document/AI-and-Education-Building-the-Future-Through-Digital-Transformation.pdf
+[15] Arias Ortiz, E., Castro, N., Forero, T., Gambi, G., Giambruno, C., Pérez-Alfaro, M., & Rodríguez Segura, D. (2025). AI and education: Building the future through digital transformation. *Inter-American Development Bank Publications*. https://publications.iadb.org/publications/english/document/AI-and-Education-Building-the-Future-Through-Digital-Transformation.pdf
 
 [16] CIO Africa. (2024). Realising AI in Africa's education systems. https://cioafrica.co/realising-ai-in-africas-education-systems/
 
