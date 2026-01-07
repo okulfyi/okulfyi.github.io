@@ -295,17 +295,17 @@ Eğer YZ'nin insanı "başka bir şeyle değiştirmek" yerine "güçlendirdiği"
 
 [5] Chen, Y., Huang, L., & Gou, T. (2024). Applications and advances of artificial intelligence in music generation: A review. *arXiv*. https://arxiv.org/html/2409.03715v1
 
-[6] National Center for Biotechnology Information. (2021). Artificial intelligence in education: Addressing ethical challenges in K-12 settings. *AI and Ethics*, *1*(4), 431-440. https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/
+[6] Akgun, S., & Greenhow, C. (2021). Artificial intelligence in education: Addressing ethical challenges in K-12 settings. *AI and Ethics*, *1*(4), 431-440. https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/
 
-[7] National Center for Biotechnology Information. (2024). Evaluation of the impact of AI-driven personalized learning platform on medical students' learning performance. https://pmc.ncbi.nlm.nih.gov/articles/PMC12465117/
+[7] Chen, Y. (2025). Evaluation of the impact of AI-driven personalized learning platform on medical students' learning performance. https://pmc.ncbi.nlm.nih.gov/articles/PMC12465117/
 
-[8] Finnish National Agency for Education. (2024). *AI guide for teachers: Digital information literacy*. https://www.oph.fi/sites/default/files/documents/AI_Guide_for_Teachers_Digital_Information_Literacy.pdf
+[8] Kivinen, K., Aslama Horowitz, M., Haasio, A., Havula, P., Laru, J., Miinin, M., Pönkä, H., Ruiz, P., Saariaho, A., Silander, P., & Toikkanen, T. (2025). *AI guide for teachers: Digital information literacy*. https://www.oph.fi/sites/default/files/documents/AI_Guide_for_Teachers_Digital_Information_Literacy.pdf
 
-[9] National Center for Biotechnology Information. (2024). Artificial intelligence vs. human expert: Licensed mental health professionals' perceptions. https://pmc.ncbi.nlm.nih.gov/articles/PMC12169703/
+[9] Franke Föyen, L., Zapel, E., Lekander, M., Hedman-Lagerlöf, E., & Lindsäter, E. (2025). Artificial intelligence vs. human expert: Licensed mental health professionals' perceptions. https://pmc.ncbi.nlm.nih.gov/articles/PMC12169703/
 
-[10] Thunderbird School of Global Management. (2024). From automation to augmentation: Human skills in the age of AI. https://thunderbird.asu.edu/thought-leadership/insights/from-automation-to-augmentation
+[10] Thunderbird School of Global Management at Arizona State University. (2025). From automation to augmentation: Human skills in the age of AI. https://thunderbird.asu.edu/thought-leadership/insights/from-automation-to-augmentation
 
-[11] Vemuri, S., et al. (2024). The impact of artificial intelligence on personalized learning in higher education: A systematic review. *Journal of Educational Technology*, *4*(2), 17. https://www.mdpi.com/2813-4346/4/2/17
+[11] Merino-Campos, C. (2025). The impact of artificial intelligence on personalized learning in higher education: A systematic review. *Journal of Educational Technology*, *4*(2), 17. https://www.mdpi.com/2813-4346/4/2/17
 
 [12] Eduten. (2024). The power of personalized learning. *Medium*. https://eduten.medium.com/the-power-of-personalized-learning-f620cf968a70
 
