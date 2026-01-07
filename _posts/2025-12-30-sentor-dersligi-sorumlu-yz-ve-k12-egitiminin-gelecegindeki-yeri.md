@@ -315,15 +315,15 @@ Eğer YZ'nin insanı "başka bir şeyle değiştirmek" yerine "güçlendirdiği"
 
 [15] Arias Ortiz, E., Castro, N., Forero, T., Gambi, G., Giambruno, C., Pérez-Alfaro, M., & Rodríguez Segura, D. (2025). AI and education: Building the future through digital transformation. *Inter-American Development Bank Publications*. https://publications.iadb.org/publications/english/document/AI-and-Education-Building-the-Future-Through-Digital-Transformation.pdf
 
-[16] CIO Africa. (2024). Realising AI in Africa's education systems. https://cioafrica.co/realising-ai-in-africas-education-systems/
+[16] Sahai, A. K. (2025). Realising AI in Africa's education systems. https://cioafrica.co/realising-ai-in-africas-education-systems/
 
-[17] MIT Solve. (2024). M-Shule. https://solve.mit.edu/challenges/learning-for-girls-and-women/solutions/29949
+[17] Mongeau, C., & M-Shule Team. (2020). M-Shule. https://solve.mit.edu/challenges/learning-for-girls-and-women/solutions/29949
 
-[18] Taylor & Francis Online. (2025). AI can revolutionise education but technology is not enough: Human development meets cultural evolution. *Learning and Individual Differences*, *123*, 102517. https://www.tandfonline.com/doi/full/10.1080/19452829.2025.2517740
+[18] Muthukrishna, M., Dai, J., Panizo Madrid, D., Sabherwal, R., Vanoppen, K., & Yao, H. (2025). AI can revolutionise education but technology is not enough: Human development meets cultural evolution. *Learning and Individual Differences*, *123*, 102517. https://www.tandfonline.com/doi/full/10.1080/19452829.2025.2517740
 
-[19] World Bank. (2024). *Plan Ceibal in Uruguay: Impact and lessons learned from a large-scale EdTech initiative*. https://documents1.worldbank.org/curated/en/099038209252435210/pdf/IDU-120af840-9d68-4ceb-b767-7c9bcf6bbc5d.pdf
+[19] Molina, E., Cobo, C., Rovner, H., Novali, A., & Pineda, J. (2024). Ceibal: Transforming education in Uruguay through technology (Digital Innovations in Education Brief No. 2). The World Bank. https://documents1.worldbank.org/curated/en/099038209252435210/pdf/IDU-120af840-9d68-4ceb-b767-7c9bcf6bbc5d.pdf
 
-[20] Poverty Action Lab. (2019). The impacts of computer-based individualized instruction on math learning in India. https://www.povertyactionlab.org/evaluation/impacts-computer-based-individualized-instruction-math-learning-india-0
+[20] de Barros, A., & Ganimian, A. (2017). T The impacts of computer-based individualized instruction on math learning in India. https://www.povertyactionlab.org/evaluation/impacts-computer-based-individualized-instruction-math-learning-india-0
 
 [21] Centre for Intellectual Property and Information Technology Law. (2024). *The role of artificial intelligence in African education systems: The use of automated decision-making in form one placements in Kenya*. https://cipit.org/wp-content/uploads/2024/09/The-Role-of-Artificial-Intelligence-in-African-Education-Systems-The-Use-of-Automated-Decision-Making-in-Form-One.pdf
 
