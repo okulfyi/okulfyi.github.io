@@ -29,7 +29,7 @@ Ancak bu değişim sadece teknik bir iyileşme değil pedagojik ilişkinin kökl
 - Bilişsel işlerin makinelere devredilmesi öğretmenin mesleki sezgisini köreltir mi? 
 - Bu araçlar Göteborg'un son teknoloji donanımlı okullarından Nairobi'nin kaynak kısıtlı sınıflarına kadar eşitlik açığını kapatabilir mi?
 
-Bu makale, YZ temelli farklılaştırmanın kapsamlı bir analizini sunuyor. "Teknoloji ütopyası" ve "distopik korku" ikiliğinin ötesine geçerek çeşitli kültürel ve ekonomik bağlamlarda gerçek uygulamaları inceliyor. Otomasyon (öğretmenin yerini alma; İng. *automation*) ve yükseltme (öğretmeni güçlendirme; ing. *augmentation*) arasındaki gerilimi araştırırken, YZ'nin zayıf internet erişimine rağmen kaynak kıtlığını çözdüğü üçüncü dünya başarı hikayelerini kuzey ülkeleriyle karşılaştırıyor. Temel mesaj net: Eğitimde YZ'nin amacı öğrenciyi sistem için değil, sistemi öğrenci için optimize etmek olmalı.
+Bu makale, YZ temelli farklılaştırmanın kapsamlı bir analizini sunuyor. "Teknoloji ütopyası" ve "distopik korku" ikiliğinin ötesine geçerek çeşitli kültürel ve ekonomik bağlamlarda gerçek uygulamaları inceliyor. Otomasyon (öğretmenin yerini alma; İng. *automation*) ve güçlendirme (öğretmeni güçlendirme; ing. *augmentation*) arasındaki gerilimi araştırırken, YZ'nin zayıf internet erişimine rağmen kaynak kıtlığını çözdüğü üçüncü dünya başarı hikayelerini kuzey ülkeleriyle karşılaştırıyor. Temel mesaj net: Eğitimde YZ'nin amacı öğrenciyi sistem için değil, sistemi öğrenci için optimize etmek olmalı.
 
 ---
 
@@ -138,21 +138,21 @@ Bu çok kültürlü analizden çarpıcı bir kontrast çıkıyor: Küresel Kuzey
 
 ---
 
-## V. Yükseltmeye Karşı Otomasyon Paradoksu
+## V. Güçlendirmeye Karşı Otomasyon Paradoksu
 
-YZ'nin eğitim farklılaştırmasındaki en tartışmalı konu bir öğretmene yardımcı olmak ile onu tamamen değiştirmek arasındaki ince sınır. Literatür "yükseltme (İng. *augmentation*; öğretmenin işlevini güçlendirme)" ve "otomasyon (İng. *automation*; öğretmeni YZ ile değiştirme)" arasında net bir ayrım yapıyor [[10]](https://thunderbird.asu.edu/thought-leadership/insights/from-automation-to-augmentation) ve bu ayrım öğretmenlik mesleğinin geleceğinin dayandığı temel nokta.
+YZ'nin eğitim farklılaştırmasındaki en tartışmalı konu bir öğretmene yardımcı olmak ile onu tamamen değiştirmek arasındaki ince sınır. Literatür "güçlendirme (İng. *augmentation*; öğretmenin işlevini güçlendirme)" ve "otomasyon (İng. *automation*; öğretmeni YZ ile değiştirme)" arasında net bir ayrım yapıyor [[10]](https://thunderbird.asu.edu/thought-leadership/insights/from-automation-to-augmentation) ve bu ayrım öğretmenlik mesleğinin geleceğinin dayandığı temel nokta.
 
 ### a. Otomasyon Tuzağı
 
-Farklılaştırılmış eğitimde otomasyon tipik olarak "çalma listesi (playlist) eğitimi" şeklinde kendini gösteriyor: Öğrenciler sıralar halinde oturur, kulaklık takar ve öğrenme yollarını belirleyen bir ekranla etkileşim kurar. Bu senaryoda öğretmen bir "kolaylaştırıcı" veya sadece disiplin sağlayıcısı haline gelir.
+Farklılaştırılmış eğitimde otomasyon tipik olarak "çalma listesi (İng. *playlist*) eğitimi" şeklinde kendini gösteriyor: Öğrenciler sıralar halinde oturur, kulaklık takar ve öğrenme yollarını belirleyen bir ekranla etkileşim kurar. Bu senaryoda öğretmen bir "kolaylaştırıcı" veya sadece disiplin sağlayıcısı haline gelir.
 
 **Beceri Kaybı Riski**: YZ tüm işi yaparsa öğretmenler "tanılayıcı sezgi"lerini kaybedebilir. Tıpkı otomatik pilota güvenen bir pilotun manuel acil durumda zorlanabileceği gibi, YZ'ye güvenen bir öğretmen de zorlanmanın ince ipuçlarını (sesteki endişeyi, karalanan yanıtları) fark etme yetkinliğini kaybedebilir [[11]](https://www.mdpi.com/2813-4346/4/2/17).
 
 **Müfredatın Daraltılması**: Otomasyon kolay ölçülebileni tercih eder. YZ matematiksel gerçekleri ayırt edebilir ama yaratıcı yazmayı veya yurttaşlık bilgisini değerlendiremiyorsa müfredat sessizce ilkine (kolay ölçülebilenlere) kayabilir [[22]](https://education.illinois.edu/about/news-events/news/article/2024/10/24/ai-in-schools--pros-and-cons).
 
-### b. Yükseltmenin Vaadi: *Sentor*-Öğretmen
+### b. Güçlendirmenin Vaadi: *Sentor*-Öğretmen
 
-Yükseltme (İng. *augmentation*) ise "insan yeteneklerini genişletmek" hedefiyle YZ'yi kullanır. "Sentor" (yarı insan ve yarı at bedenli mitolojik karakter) metaforuyla sembolize edilen bu modelde insan-YZ hibrit takımları hem saf yapay zekâyı hem de sadece insanlardan oluşan ekipleri alt edebilmeyi vadediyor. YZ "yüksek hacim + düşük karmaşıklık" görevleri (örn. not verme, veri analizi vb.) üstlenirken öğretmen ise "düşük hacim + yüksek karmaşıklık" görevlerine (örn. mentorluk, karmaşık müdahale, duygusal düzenleme vb.) odaklanıyor.
+Güçlendirme (İng. *augmentation*) ise "insan yeteneklerini genişletmek" hedefiyle YZ'yi kullanır. "*Sentor*" (yarı insan ve yarı at bedenli mitolojik karakter) metaforuyla sembolize edilen bu modelde insan-YZ hibrit takımları hem saf yapay zekâyı hem de sadece insanlardan oluşan ekipleri alt edebilmeyi vadediyor. YZ "yüksek hacim + düşük karmaşıklık" görevleri (örn. not verme, veri analizi vb.) üstlenirken öğretmen ise "düşük hacim + yüksek karmaşıklık" görevlerine (örn. mentorluk, karmaşık müdahale, duygusal düzenleme vb.) odaklanıyor.
 
 **Örnek**: YZ destekli öğretmen "Bu öğrenciye kesirleri öğret." demez. Bunun yerine YZ'den kesirler için üç farklı analoji (pasta dilimleri, müzik ritimleri, pil şarj seviyeleri) üretmesini ister ve öğrenci hakkındaki kişisel bilgilerini kullanarak hangisinin ona hitap edeceğini seçer [[6]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/).
 
@@ -160,7 +160,7 @@ Yükseltme (İng. *augmentation*) ise "insan yeteneklerini genişletmek" hedefiy
 
 ### Tablo 2: YZ Entegrasyonu Spektrumu
 
-| **Özellik** | **Otomasyon (Robot-Öğretici)** | **Yükseltme (Sentor-Öğretmen)** |
+| **Özellik** | **Otomasyon (Robot-Öğretici)** | **Güçlendirme (*Sentor*-Öğretmen)** |
 |------------|-------------------------------|--------------------------------|
 | **Karar Verme** | Algoritma bir sonraki dersi belirler. | Algoritma seçenekler sunar; öğretmen karar verir. |
 | **Öğretmen Rolü** | İzleme ve teknolojik destek sağlar. | Öğrenme mimarı / mentor olur. |
@@ -175,7 +175,7 @@ Okullar YZ araçlarını benimsemek için acele ederken araştırmalar satın al
 
 ### a. YZ'yi Eğitme Verilerinin Yanlılığı ve "WEIRD" Problemi
 
-YZ modelleri geçmiş veriler üzerinde eğitiliyor. Ancak şu var ki başlıca LLM'ler ve uyarlanabilir eğitim araçlarının çoğu "WEIRD" (Western/Batılı, Educated/Eğitimli, Industrialized/Sanayileşmiş, Rich/Zengin, Democratic/Demokratik) tabir edilen topluluklardan elde edilen veriler üzerinde eğitilmekte.
+YZ modelleri geçmiş veriler üzerinde eğitiliyor. Ancak şu var ki başlıca LLM'ler ve uyarlanabilir eğitim araçlarının çoğu "*WEIRD*" (*Western*/Batılı, *Educated*/Eğitimli, *Industrialized*/Sanayileşmiş, *Rich*/Zengin, *Democratic*/Demokratik) tabir edilen topluluklardan elde edilen veriler üzerinde eğitilmekte.
 
 **Kültürel Yanlılık**: Yukarıda sözü edilen modeller üçüncü dünya ülkelerinde uygulandığında kültürel bağlamdan yoksun kalabiliyor ve yerel dilleri, bilgi sistemlerini veya Batı dışı akıl yürütme biçimlerini "hatalar" olarak yorumlayabiliyor.
 
@@ -226,7 +226,7 @@ K-12 okulları veri konusunda "minimalist" yaklaşım benimsemeli: Sadece belirl
 
 ### d. Pedagoji İlkelerine Uyum
 
-YZ, müfredatı yönlendirmemeli. Müfredat hedefleri belirleyen şeydir; YZ ise yalnızca lojistik motoru olarak eylem yürütmeli. "Önce pedagoji, sonra teknoloji" ilkesi gereği bir okul proje tabanlı öğrenmeyi önemsiyorsa YZ, amaçsız zorunluluk için değil projeleri destekleme amacıyla kullanılmalı [[28]](https://journals.aom.org/doi/10.5465/amr.2018.0072).
+YZ, müfredatı yönlendirmemeli. Müfredat, hedefleri belirleyen şeydir; YZ ise yalnızca "lojistik motoru" olarak eylem yürütmeli. "Önce pedagoji, sonra teknoloji" ilkesi gereği bir okul proje tabanlı öğrenmeyi önemsiyorsa YZ, amaçsız zorunluluk için değil projeleri destekleme amacıyla kullanılmalı [[28]](https://journals.aom.org/doi/10.5465/amr.2018.0072).
 
 ---
 
@@ -238,11 +238,11 @@ Sahada çalışan uygulayıcılar için teori ilk günden itibaren eyleme dönü
 
 **Aşama 1 / Araç Temini ve Politika (Bölgesel Ölçek)**:
 - **Denetim**: YZ aracının sağlayıcısı etki değerlendirme raporu sundu mu? Araç nasıl eğitildi? Eğitim verileri öğrenci popülasyonumuzu temsil ediyor mu?
-- **Veri gizliliği**: Araç yerel yasalara (GDPR, FERPA, KVKK vb.) uygun mu? Öğrenci verilerinin sahibi kim? İstek üzerine silebilir miyiz?
-- **Birlikte çalışabilirlik**: Araç mevcut sistemlerle (örn. LMS, öğrenci bilgi sistemi vb.) iletişim kuruyor mu yoksa ayrı veri siloları mı oluşturacak?
+- **Veri gizliliği**: Araç yerel yasalara (*GDPR*, *FERPA*, *KVKK* vb.) uygun mu? Öğrenci verilerinin sahibi kim? İstek üzerine silebilir miyiz?
+- **Birlikte çalışabilirlik**: Araç mevcut sistemlerle (örn. *LMS*, öğrenci bilgi sistemi vb.) iletişim kuruyor mu yoksa ayrı veri siloları mı oluşturacak?
 
 **Aşama 2 / Uygulama (Okul Ölçeği)**:
-- **Öğretmen eğitimi**: Öğretmenler sadece aracı kullanmak için değil onu yanlışlamak için de eğitiliyor mu? "Yükseltme" ve "otomasyon" arasındaki farkı anlıyorlar mı?
+- **Öğretmen eğitimi**: Öğretmenler sadece aracı kullanmak için değil onu yanlışlamak için de eğitiliyor mu? "Güçlendirme" ve "otomasyon" arasındaki farkı anlıyorlar mı?
 - **Sınırlılık**: Ekran süresine sınırlar koyun. YZ farklılaştırmasını grup çalışması ve çevrim dışı eğitimle dengeleyin.
 - **Veli iletişimi**: Veliler YZ'nin çocuklarının öğrenme sürecini nasıl şekillendirdiği konusunda bilgilendiriliyor mu?
 
@@ -256,7 +256,7 @@ Sahada çalışan uygulayıcılar için teori ilk günden itibaren eyleme dönü
 Öğretmenler kademeli yaklaşım kullanarak YZ'ye dayalı farklılaştırmayı hemen uygulamaya koyabilir:
 
 **Katman 1 (Tüm Öğrenciler)**: YZ'yi üretken temel (İng. *scaffolding*) oluşturmak için kullanın.
-- **Eylem**: ChatGPT gibi araçları kullanarak "seviyelendirilmiş metinler" oluşturun. Karmaşık bir haber makalesinden 4., 8. ve 12. sınıf okuma seviyelerinde versiyonlar isteyin. Böylelikle tüm öğrenciler aynı içeriğe kendi "yakınsal gelişim alanlarında (ZPD)" erişmiş olacaklar [[3]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf).
+- **Eylem**: ChatGPT gibi araçları kullanarak "seviyelendirilmiş metinler" oluşturun. Karmaşık bir haber makalesinden 4., 8. ve 12. sınıf okuma seviyelerinde versiyonlar isteyin. Böylelikle tüm öğrenciler aynı içeriğe kendi "yakınsal gelişim alanlarında (*ZPD*)" erişmiş olacaklar [[3]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf).
 
 **Katman 2 (Hedeflenmiş Gruplar)**: YZ'yi düzeltme ve uygulama için kullanın.
 - **Eylem**: Verilerle belirlenen beceri eksikliklerini gidermek için örn. günde 20 dakika uyarlanabilir eğitim platformları kullanın. Bu, temel eğitime "günlük takviye" yaklaşımıdır.
@@ -268,14 +268,14 @@ Sahada çalışan uygulayıcılar için teori ilk günden itibaren eyleme dönü
 
 ## IX. Sonuç: Döngüdeki "İnsan" Etmeni
 
-Araştırmalar kesin bir dille şunu ortaya koyuyor: **YZ farklılaştırma için güçlü bir teknoloji.** İnsan gözünün göremediği kalıpları tespit edebiliyor ve herhangi bir insan elinden daha hızlı içerik üretebiliyor. Bu yetenekleriyle kıtlık ortamlarında can simidi, bolluk ortamlarında ise optimize edici enstrüman. "Dersliğin alışılageldik geometrisi"ni ve 2 Sigma Sorunu'nu (bkz. *Bölüm 1*) büyük ölçüde çözme konusunda ilk gerçek umudu vadediyor.
+Araştırmalar kesin bir dille şunu ortaya koyuyor: **YZ farklılaştırma için güçlü bir teknoloji.** İnsan gözünün göremediği kalıpları tespit edebiliyor ve herhangi bir insan elinden daha hızlı içerik üretebiliyor. Bu yetenekleriyle kıtlık ortamlarında can simidi, bolluk ortamlarında ise optimize edici enstrüman. "Dersliğin alışılageldik geometrisi"ni ve *2 Sigma Sorunu*'nu (bkz. *Bölüm 1*) büyük ölçüde çözme konusunda ilk gerçek umudu vadediyor.
 
 Ancak bu makalede derlenen bulgular bizi tekil, belki de sezgisel olmayan bir sonuca götürmekte: **Nihai farklılaştırıcı unsur halen "öğretmen".** Bir makine, öğretimin içeriğini farklılaştırabilir ama eğitimi (çocuğun gelişimini) bütünsel olarak farklılaştırabilen yalnız ve yalnız bir insandır. 
 
 - YZ bir öğrenciye yanlış yaptığını söyleyebilir ama yalnızca bir "öğretmen" ona yetenekli olduğunu söyleyebilir. 
 - YZ verimliliği optimize edebilir ama "insanlığı" optimize edebilen yalnız ve yalnız bir "öğretmen"dir.
 
-Önümüzdeki on yılın riski YZ'nin işe yaramaması değil **"çok fazla işe yaraması"**: Bizi "verimli ama yalnız", ekran tabanlı bir tüketim dünyasına hapsetmesi.
+Önümüzdeki on yılın riski YZ'nin işe yaramaması değil "çok fazla işe yaraması": Bizi "verimli ama yalnız", ekran tabanlı bir tüketim dünyasına hapsetmesi.
 
 Farklılaştırılmış öğrenmenin geleceği "robot-öğretici" ve "insan-öğretmen" arasında seçim yapmakta değil; ***Sentor*-öğretmen** hibrit bir ideal yol olarak önümüzde şekilleniyor.  Tehlike ise teknolojinin kendisinde değil onu yönlendirme sorumluluğumuzdan vazgeçmemizde yatıyor. 
 
