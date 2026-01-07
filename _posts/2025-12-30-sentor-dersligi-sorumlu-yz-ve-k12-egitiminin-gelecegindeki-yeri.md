@@ -150,7 +150,7 @@ Farklılaştırılmış eğitimde otomasyon tipik olarak "çalma listesi (İng. 
 
 **Müfredatın Daraltılması**: Otomasyon kolay ölçülebileni tercih eder. YZ matematiksel gerçekleri ayırt edebilir ama yaratıcı yazmayı veya yurttaşlık bilgisini değerlendiremiyorsa müfredat sessizce ilkine (kolay ölçülebilenlere) kayabilir [[22]](https://education.illinois.edu/about/news-events/news/article/2024/10/24/ai-in-schools--pros-and-cons).
 
-### b. Güçlendirmenin Vaadi: *Sentor*-Öğretmen
+### b. Güçlendirmenin Modeli: *Sentor*-Öğretmen
 
 Güçlendirme (İng. *augmentation*) ise "insan yeteneklerini genişletmek" hedefiyle YZ'yi kullanır. "*Sentor*" (yarı insan ve yarı at bedenli mitolojik karakter) metaforuyla sembolize edilen bu modelde insan-YZ hibrit takımları hem saf yapay zekâyı hem de sadece insanlardan oluşan ekipleri alt edebilmeyi vadediyor. YZ "yüksek hacim + düşük karmaşıklık" görevleri (örn. not verme, veri analizi vb.) üstlenirken öğretmen ise "düşük hacim + yüksek karmaşıklık" görevlerine (örn. mentorluk, karmaşık müdahale, duygusal düzenleme vb.) odaklanıyor.
 
