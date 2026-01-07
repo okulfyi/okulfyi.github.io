@@ -19,7 +19,7 @@ Gerçekte her öğrenci farklı. Biri ikinci dereceden denklemleri sezgisel olar
 
 ## I. Dersliğin Geometrisi ve *Sentor*'un Vaadi
 
-K-12 eğitiminin yüzyıllardır çözemediği bu "farklılaştırmma ikilemi"ni eğitim psikoloğu Benjamin Bloom 1984'te çarpıcı bir şekilde ortaya koydu: Bire bir özel ders alan öğrenciler, geleneksel sınıflardaki akranlarına göre iki standart sapma daha iyi performans gösteriyordu. Bu bulgular "2 Sigma Sorunu" olarak literatüre geçti. Trajik olan ise çözümün pratikte uygulanamaz olmasıydı: Toplum her çocuğa özel öğretmen tutacak kadar zengin değildi.
+K-12 eğitiminin yüzyıllardır çözemediği bu "farklılaştırma ikilemi"ni eğitim psikoloğu Benjamin Bloom 1984'te çarpıcı bir şekilde ortaya koydu: Bire bir özel ders alan öğrenciler, geleneksel sınıflardaki akranlarına göre iki standart sapma daha iyi performans gösteriyordu. Bu bulgular "*2 Sigma Sorunu*" olarak literatüre geçti. Trajik olan ise çözümün pratikte uygulanamaz olmasıydı: Toplum her çocuğa özel öğretmen tutacak kadar zengin değildi.
 
 İşte tam bu noktada yapay zeka devreye giriyor. Şu anda eğitimde "fabrika modeli"nden "ağ tabanlı model"e doğru tarihi bir dönüşüm yaşıyoruz. YZ, algoritmik kişiselleştirme yoluyla Bloom'un 2 Sigma problemini çözme potansiyeli sunuyor. Geniş veri kümelerini analiz ederek her öğrencinin zihinsel topoğrafyasını haritalandırabiliyor ve onların özel bilişsel ve duygusal ihtiyaçlarına göre uyarlanmış içerik sunabiliyor [[1]](https://files.eric.ed.gov/fulltext/EJ1465704.pdf).
 
