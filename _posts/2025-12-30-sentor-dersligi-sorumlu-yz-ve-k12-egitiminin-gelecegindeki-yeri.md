@@ -325,15 +325,15 @@ Eğer YZ'nin insanı "başka bir şeyle değiştirmek" yerine "güçlendirdiği"
 
 [20] de Barros, A., & Ganimian, A. (2017). T The impacts of computer-based individualized instruction on math learning in India. https://www.povertyactionlab.org/evaluation/impacts-computer-based-individualized-instruction-math-learning-india-0
 
-[21] Centre for Intellectual Property and Information Technology Law. (2024). *The role of artificial intelligence in African education systems: The use of automated decision-making in form one placements in Kenya*. https://cipit.org/wp-content/uploads/2024/09/The-Role-of-Artificial-Intelligence-in-African-Education-Systems-The-Use-of-Automated-Decision-Making-in-Form-One.pdf
+[21] Nyakundi, D., Oginga, A., & Omar, S. (2024). *The role of artificial intelligence in African education systems: The use of automated decision-making in form one placements in Kenya*. https://cipit.org/wp-content/uploads/2024/09/The-Role-of-Artificial-Intelligence-in-African-Education-Systems-The-Use-of-Automated-Decision-Making-in-Form-One.pdf
 
-[22] Edtech Magazine. (2024). AI in schools: Pros and cons. *College of Education, University of Illinois*. https://education.illinois.edu/about/news-events/news/article/2024/10/24/ai-in-schools--pros-and-cons
+[22] Office of Communications, College of Education, University of Illinois. (2024). AI in schools: Pros and cons. *College of Education, University of Illinois*. https://education.illinois.edu/about/news-events/news/article/2024/10/24/ai-in-schools--pros-and-cons
 
 [23] ESRI. (2024). Generative AI in urban planning - a prototype. https://www.esri.com/arcgis-blog/products/city-engine/design-planning/generative-ai-in-urban-planning
 
-[24] Education Week. (2017). The case(s) against personalized learning. https://www.edweek.org/technology/the-cases-against-personalized-learning/2017/11
+[24] Dong, B., Lechot, C., Kudinov, D., Snider, J., & Wallace, S. (2024). The case(s) against personalized learning. https://www.edweek.org/technology/the-cases-against-personalized-learning/2017/11
 
-[25] National Center for Biotechnology Information. (2024). Exploring the effects of artificial intelligence on student and academic well-being in higher education: A mini-review. https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/
+[25] Klimova, B., & Pikhart, M. (2025). Exploring the effects of artificial intelligence on student and academic well-being in higher education: A mini-review. https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/
 
 [26] California State University. (2024). *ETHICAL principles AI framework for higher education*. https://genai.calstate.edu/communities/faculty/ethical-and-responsible-use-ai/ethical-principles-ai-framework-higher-education
 
