@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Sentor Dersliği: Yapay Zekanın K-12 Eğitiminin Geleceğindeki Yeri"
-description: "K-12 eğitiminde sorumlu YZ (yapay zeka) yaklaşımlarının, sınıf içi öğrenme deneyimlerini nasıl dönüştürdüğünü ve geleceğin dijital dersliklerini nasıl şekillendirdiğini ele alan bir inceleme. #K12 #YZ #Eğitim #EdTech"
+title: "Sentor Dersliği: Yapay zekânın K-12 Eğitiminin Geleceğindeki Yeri"
+description: "K-12 eğitiminde sorumlu YZ (yapay zekâ) yaklaşımlarının, sınıf içi öğrenme deneyimlerini nasıl dönüştürdüğünü ve geleceğin dijital dersliklerini nasıl şekillendirdiğini ele alan bir inceleme. #K12 #YZ #Eğitim #EdTech"
 date: 2025-12-29
 feature_image: images/i251229001.jpg
-tags: [k-12, yapay-zeka, YZ, eğitim, pedagoji, edtech]
+tags: [k-12, yapay-zekâ, YZ, eğitim, pedagoji, edtech]
 ---
 
 *Sentor (Centaur; Kentaur): Yarı insan ve yarı at bedenli mitolojik karakter.*
@@ -21,15 +21,15 @@ Gerçekte her öğrenci farklı. Biri ikinci dereceden denklemleri sezgisel olar
 
 K-12 eğitiminin yüzyıllardır çözemediği bu "farklılaştırma ikilemi"ni eğitim psikoloğu Benjamin Bloom 1984'te çarpıcı bir şekilde ortaya koydu: Bire bir özel ders alan öğrenciler, geleneksel sınıflardaki akranlarına göre iki standart sapma daha iyi performans gösteriyordu. Bu bulgular "*2 Sigma Sorunu*" olarak literatüre geçti. Trajik olan ise çözümün pratikte uygulanamaz olmasıydı: Toplum her çocuğa özel öğretmen tutacak kadar zengin değildi.
 
-İşte tam bu noktada yapay zeka devreye giriyor. Şu anda eğitimde "fabrika modeli"nden "ağ tabanlı model"e doğru tarihi bir dönüşüm yaşıyoruz. YZ, algoritmik kişiselleştirme yoluyla Bloom'un 2 Sigma problemini çözme potansiyeli sunuyor. Geniş veri kümelerini analiz ederek her öğrencinin zihinsel topoğrafyasını haritalandırabiliyor ve onların özel bilişsel ve duygusal ihtiyaçlarına göre uyarlanmış içerik sunabiliyor [[1]](https://files.eric.ed.gov/fulltext/EJ1465704.pdf).
+İşte tam bu noktada yapay zekâ devreye giriyor. Şu anda eğitimde "fabrika modeli"nden "ağ tabanlı model"e doğru tarihi bir dönüşüm yaşıyoruz. YZ, algoritmik kişiselleştirme yoluyla Bloom'un 2 Sigma problemini çözme potansiyeli sunuyor. Geniş veri kümelerini analiz ederek her öğrencinin zihinsel topoğrafyasını haritalandırabiliyor ve onların özel bilişsel ve duygusal ihtiyaçlarına göre uyarlanmış içerik sunabiliyor [[1]](https://files.eric.ed.gov/fulltext/EJ1465704.pdf).
 
-Ancak bu değişim sadece teknik bir iyileşme değil pedagojik ilişkinin köklü bir yeniden yapılandırması. İnsan sezgisinin algoritmik hassasiyetle buluştuğu hibrit model olan "Sentor Öğretmen" kavramı, öğrenmenin doğası hakkında derin sorular ortaya atıyor: 
+Ancak bu değişim sadece teknik bir iyileşme değil pedagojik ilişkinin köklü bir yeniden yapılandırması. İnsan sezgisinin algoritmik hassasiyetle buluştuğu hibrit model olan "*Sentor* Öğretmen" kavramı, öğrenmenin doğası hakkında derin sorular ortaya atıyor: 
 
 - YZ destekli kişiselleştirme, öğrencilerin özerkliğini zayıflatıyor mu? 
 - Bilişsel işlerin makinelere devredilmesi öğretmenin mesleki sezgisini köreltir mi? 
 - Bu araçlar Göteborg'un son teknoloji donanımlı okullarından Nairobi'nin kaynak kısıtlı sınıflarına kadar eşitlik açığını kapatabilir mi?
 
-Bu makale, YZ temelli farklılaştırmanın kapsamlı bir analizini sunuyor. "Teknoloji ütopyası" ve "distopik korku" ikiliğinin ötesine geçerek çeşitli kültürel ve ekonomik bağlamlarda gerçek uygulamaları inceliyor. Otomasyon (öğretmenin yerini alma) ve yükseltme (öğretmeni güçlendirme) arasındaki gerilimi araştırırken, YZ'nin zayıf internet erişimine rağmen kaynak kıtlığını çözdüğü üçüncü dünya başarı hikayelerini kuzey ülkeleriyle karşılaştırıyor. Temel mesaj net: Eğitimde YZ'nin amacı öğrenciyi sistem için değil, sistemi öğrenci için optimize etmek olmalı.
+Bu makale, YZ temelli farklılaştırmanın kapsamlı bir analizini sunuyor. "Teknoloji ütopyası" ve "distopik korku" ikiliğinin ötesine geçerek çeşitli kültürel ve ekonomik bağlamlarda gerçek uygulamaları inceliyor. Otomasyon (öğretmenin yerini alma; İng. *automation*) ve yükseltme (öğretmeni güçlendirme; ing. *augmentation*) arasındaki gerilimi araştırırken, YZ'nin zayıf internet erişimine rağmen kaynak kıtlığını çözdüğü üçüncü dünya başarı hikayelerini kuzey ülkeleriyle karşılaştırıyor. Temel mesaj net: Eğitimde YZ'nin amacı öğrenciyi sistem için değil, sistemi öğrenci için optimize etmek olmalı.
 
 ---
 
@@ -49,11 +49,11 @@ Uyarlanabilir platformlar (akıllı öğretim sistemleri) on yıllardır var ols
 
 **Seviyelendirilmiş Okuma**: Bir öğretmen iklim değişikliği hakkında karmaşık bir makaleyi ChatGPT'ye yükleyip 4., 8. ve 12. sınıf okuma seviyelerinde üç farklı versiyon isteyebilir. Böylece farklı okuma becerilerine sahip öğrenciler aynı kavramları kendi seviyelerinde (yakınsal/yakınsak gelişim bölgesi; İng. *zone of proximal development*; kıs. *ZPD*) öğrenebilir [[3]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf).
 
-**Kişiselleştirilmiş Analojiler**: Bir öğrenci "hücre zarı" kavramını anlamakta zorlanıyorsa, YZ öğretmeni onun ilgi alanlarına göre özel analojiler oluşturabilir: Tarih meraklısı için "kale duvarı", futbolsever için "kaleci". Bu yaklaşım yeni bilgilere kişiselleştirilmiş anlamsal köprüler kurar.
+**Kişiselleştirilmiş Analojiler**: Bir öğrenci örn. "hücre zarı" kavramını anlamakta zorlanıyorsa, YZ öğretmeni onun ilgi alanlarına göre özel analojiler oluşturabilir: Tarih meraklısı için "kale duvarı", futbolsever için "kaleci"... Bu yaklaşım yeni bilgilere kişiselleştirilmiş anlamsal köprüler kurar.
 
 ### b. Etki Kanıtı: Son On Yılın Bilimsel Bulguları
 
-"Eğitimde yapay zeka"ya (İng. *artificial intelligence in education*; kıs. *AIEd*) duyulan coşku çoğu zaman pazarlama söylemleriyle şişirilmiş olsa da son yıllardaki hakemli yayınlar sağlam, kanıta dayalı bir tablo çiziyor.
+"Eğitimde yapay zekâ"ya (İng. *artificial intelligence in education*; kıs. *AIEd*) duyulan coşku çoğu zaman pazarlama söylemleriyle şişirilmiş olsa da son yıllardaki hakemli yayınlar sağlam, kanıta dayalı bir tablo çiziyor.
 
 **Etki Büyüklüğü**: Meta-analizler YZ'nin henüz Bloom'un "2 Sigma" (etki büyüklüğü = 2,0) işaretine tutarlı biçimde ulaşmadığını ancak etkilerinin istatistiksel ve eğitimsel açıdan anlamlı olduğunu gösteriyor. 2024'te 13 ampirik çalışmayı kapsayan bir meta-analiz Hedges'in g etki büyüklüğünü **0,86** olarak buldu [[4]](https://www.researchgate.net/publication/384474169_The_Effect_of_Artificial_Intelligence-Assisted_Personalized_Learning_on_Student_Learning_Outcomes_A_Meta-Analysis_Based_on_31_Empirical_Research_Papers). Eğitim araştırmalarında 0,4 genellikle "denemeye değer" eşiği olduğundan 0,86 oldukça güçlü bir etki demek.
 
@@ -105,7 +105,7 @@ YZ'nin rolünü bir uçuş simülatörüne benzetebiliriz. Simülatör kaza risk
 
 ## IV. Küresel Bağlam: İki Ayrı Ucun Öyküsü
 
-Eğitimde yapay zeka anlatısı çoğu zaman Silikon Vadisi ve Batılı teknoloji devleri tarafından domine ediliyor. Ancak YZ ile farklılaşmanın en yenilikçi uygulamalarından bazıları üçüncü dünya ve İskandinav ülkelerinde gerçekleşiyor. Kültürel ve ekonomik bağlam, YZ'nin "lüks bir eklenti" mi yoksa "kritik bir altyapı" mı olarak hizmet edeceğini belirliyor.
+Eğitimde yapay zekâ anlatısı çoğu zaman Silikon Vadisi ve Batılı teknoloji devleri tarafından domine ediliyor. Ancak YZ ile farklılaşmanın en yenilikçi uygulamalarından bazıları üçüncü dünya ve İskandinav ülkelerinde gerçekleşiyor. Kültürel ve ekonomik bağlam, YZ'nin "lüks bir eklenti" mi yoksa "kritik bir altyapı" mı olarak hizmet edeceğini belirliyor.
 
 ### a. Nordik Model: Güven, Gizlilik ve Asistan Olarak Makine
 
@@ -152,7 +152,7 @@ Farklılaştırılmış eğitimde otomasyon tipik olarak "çalma listesi (playli
 
 ### b. Yükseltmenin Vaadi: *Sentor*-Öğretmen
 
-Yükseltme (İng. *augmentation*) ise "insan yeteneklerini genişletmek" hedefiyle YZ'yi kullanır. "Sentor" (yarı insan ve yarı at bedenli mitolojik karakter) metaforuyla sembolize edilen bu modelde insan-YZ hibrit takımları hem saf yapay zekayı hem de sadece insanlardan oluşan ekipleri alt edebilmeyi vadediyor. YZ "yüksek hacim + düşük karmaşıklık" görevleri (örn. not verme, veri analizi vb.) üstlenirken öğretmen ise "düşük hacim + yüksek karmaşıklık" görevlerine (örn. mentorluk, karmaşık müdahale, duygusal düzenleme vb.) odaklanıyor.
+Yükseltme (İng. *augmentation*) ise "insan yeteneklerini genişletmek" hedefiyle YZ'yi kullanır. "Sentor" (yarı insan ve yarı at bedenli mitolojik karakter) metaforuyla sembolize edilen bu modelde insan-YZ hibrit takımları hem saf yapay zekâyı hem de sadece insanlardan oluşan ekipleri alt edebilmeyi vadediyor. YZ "yüksek hacim + düşük karmaşıklık" görevleri (örn. not verme, veri analizi vb.) üstlenirken öğretmen ise "düşük hacim + yüksek karmaşıklık" görevlerine (örn. mentorluk, karmaşık müdahale, duygusal düzenleme vb.) odaklanıyor.
 
 **Örnek**: YZ destekli öğretmen "Bu öğrenciye kesirleri öğret." demez. Bunun yerine YZ'den kesirler için üç farklı analoji (pasta dilimleri, müzik ritimleri, pil şarj seviyeleri) üretmesini ister ve öğrenci hakkındaki kişisel bilgilerini kullanarak hangisinin ona hitap edeceğini seçer [[6]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/).
 
@@ -249,7 +249,7 @@ Sahada çalışan uygulayıcılar için teori ilk günden itibaren eyleme dönü
 **Aşama 3 / Sınıf Pratiği (Öğretmen Ölçeği)**:
 - **"Neden" testi**: Bir öğrenciye neden yanındaki öğrenciden farklı ödev yaptığını açıklayabilir misiniz? ('Bilgisayar öyle söyledi' yeterli değil; örn. 'Kavramı dün iyice öğrendin, bugün ise yeni bir probleme uyguluyorsun' olmalı.)
 - **İzleme**: YZ'nin sağladığı boş zamanı özellikle sessiz veya içine kapanık öğrencilerle etkileşim kurmak için kullanın.
-- **Eleştirel YZ okuryazarlığı**: Aracı bir derse dönüştürün. Öğrencilere "Yapay zekanın size katkı sağladığını düşünüyor musunuz ve neden?" diye sorun.
+- **Eleştirel YZ okuryazarlığı**: Aracı bir derse dönüştürün. Öğrencilere "Yapay zekânın size katkı sağladığını düşünüyor musunuz ve neden?" diye sorun.
 
 ### b. Strateji: Üç Katmanlı Farklılaştırma Modeli
 
