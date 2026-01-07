@@ -285,15 +285,15 @@ Eğer YZ'nin insanı "başka bir şeyle değiştirmek" yerine "güçlendirdiği"
 
 ## Kaynakça
 
-[1] Zhang, K., & Aslan, A. B. (2021). Meta-analysis of artificial intelligence in education. *ERIC*. https://files.eric.ed.gov/fulltext/EJ1465704.pdf
+[1] Zhang, J., Jantakoon, T., & Laoha, R. (2025). Meta-analysis of artificial intelligence in education. *ERIC*. https://files.eric.ed.gov/fulltext/EJ1465704.pdf
 
-[2] National Center for Biotechnology Information. (2024). Differentiation approach in education: Tailoring instruction for diverse learner needs. *Cureus*, *16*(12), e75432. https://pmc.ncbi.nlm.nih.gov/articles/PMC11786651/
+[2] Goyibova, N., Muslimov, N., Sabirova, G., Kadirova, N., & Samatova, B. (2025). Differentiation approach in education: Tailoring instruction for diverse learner needs. *Cureus*, *16*(12), e75432. https://pmc.ncbi.nlm.nih.gov/articles/PMC11786651/
 
 [3] Microsoft. (2025). *2025 AI in education: A Microsoft special report*. https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/education/2025-Microsoft-AI-in-Education-Report.pdf
 
-[4] ResearchGate. (2024). The effect of artificial intelligence-assisted personalized learning on student learning outcomes: A meta-analysis based on 31 empirical research papers. https://www.researchgate.net/publication/384474169_The_Effect_of_Artificial_Intelligence-Assisted_Personalized_Learning_on_Student_Learning_Outcomes_A_Meta-Analysis_Based_on_31_Empirical_Research_Papers
+[4] Hu, S. (2024). The effect of artificial intelligence-assisted personalized learning on student learning outcomes: A meta-analysis based on 31 empirical research papers. https://www.researchgate.net/publication/384474169_The_Effect_of_Artificial_Intelligence-Assisted_Personalized_Learning_on_Student_Learning_Outcomes_A_Meta-Analysis_Based_on_31_Empirical_Research_Papers
 
-[5] Zhang, Y., et al. (2024). Applications and advances of artificial intelligence in music generation: A review. *arXiv*. https://arxiv.org/html/2409.03715v1
+[5] Chen, Y., Huang, L., & Gou, T. (2024). Applications and advances of artificial intelligence in music generation: A review. *arXiv*. https://arxiv.org/html/2409.03715v1
 
 [6] National Center for Biotechnology Information. (2021). Artificial intelligence in education: Addressing ethical challenges in K-12 settings. *AI and Ethics*, *1*(4), 431-440. https://pmc.ncbi.nlm.nih.gov/articles/PMC8455229/
 
