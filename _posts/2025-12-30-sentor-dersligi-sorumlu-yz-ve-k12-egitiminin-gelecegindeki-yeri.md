@@ -335,8 +335,8 @@ Eğer YZ'nin insanı "başka bir şeyle değiştirmek" yerine "güçlendirdiği"
 
 [25] Klimova, B., & Pikhart, M. (2025). Exploring the effects of artificial intelligence on student and academic well-being in higher education: A mini-review. https://pmc.ncbi.nlm.nih.gov/articles/PMC11830699/
 
-[26] California State University. (2024). *ETHICAL principles AI framework for higher education*. https://genai.calstate.edu/communities/faculty/ethical-and-responsible-use-ai/ethical-principles-ai-framework-higher-education
+[26] Wynants, S., Childers, G., De La Torre Roman, Y., Budar-Turner, D., & Vasquez, P. (2025). *ETHICAL principles AI framework for higher education*. https://genai.calstate.edu/communities/faculty/ethical-and-responsible-use-ai/ethical-principles-ai-framework-higher-education
 
-[27] Taylor & Francis Online. (2024). The ethical concerns of artificial intelligence in urban planning. *Journal of the American Planning Association*. https://www.tandfonline.com/doi/full/10.1080/01944363.2024.2355305
+[27] Sanchez, T. W., Brenman, M., & Ye, X. (2024). The ethical concerns of artificial intelligence in urban planning. *Journal of the American Planning Association*. https://www.tandfonline.com/doi/full/10.1080/01944363.2024.2355305
 
-[28] Daugherty, P. R., & Wilson, H. J. (2019). Artificial intelligence and management: The automation–augmentation paradox. *Academy of Management Review*, *44*(4), 795-803. https://journals.aom.org/doi/10.5465/amr.2018.0072
+[28] Raisch, S., & Krakowski, S. (2021). Artificial intelligence and management: The automation–augmentation paradox. *Academy of Management Review*, *44*(4), 795-803. https://journals.aom.org/doi/10.5465/amr.2018.0072
