@@ -68,6 +68,7 @@ Nobel ödüllü ekonomist James Heckman'ın ortaya koyduğu "Heckman Eğrisi", i
 Bir etkileyici bulgu daha: *RAND Corporation*'ın 115 farklı "erken çocukluk programı"nı incelediği kapsamlı değerlendirmesinde (i) bu programların büyük çoğunluğunun pozitif etki ürettiği, (ii) maliyet-yarar oranlarının harcanan her 1 dolara karşılık 2 ila 4 dolar arasında kazanç ürettiği, (iii) bazı programlarda ise bu getirinin 17 dolara kadar çıktığı saptanmış [[22]](https://www.rand.org/pubs/periodicals/health-quarterly/issues/v7/n4/06.html).
 
 ![Heckman Eğrisi - Yaşa Göre Yatırım Getirisi](images/260407_Figure_02.jpg)
+
 *Figür 2: Heckman Eğrisi - Yaşa Göre Yatırımın Geri Dönüşü (heckmanequation.org)*
 
 ## V. Türkiye'de Okul Öncesi Eğitimin Mevcut Durumu
