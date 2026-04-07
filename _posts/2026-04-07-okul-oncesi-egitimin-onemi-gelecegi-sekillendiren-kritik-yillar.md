@@ -23,7 +23,8 @@ Harvard Üniversitesine bağlı *Center on the Developing Child* (Gelişen Çocu
 
 Beyin mimarisini şekillendiren yalnızca "genetik"" değil, aynı zamanda "çevresel uyaranlar". Nörobilim literatüründe "zenginleştirilmiş ortam" olarak tanımlanan, çok boyutlu uyarıcılar sunan eğitim ortamları, sinaptogenezi (yani sinir hücreleri arasında sinaps adı verilen yeni iletişim bağlantılarının oluşması süreci) artırıyor ve beyin kaynaklı nörotrofik faktör (kıs. BDNF) düzeylerini yükseltiyor [[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7385286/). Harvard'ın geliştirdiği "ver-al etkileşimi" (İng. *serve and return*) modeli, çocuk ile yetişkin arasındaki karşılıklı, anlamlı etkileşimlerin nöral bağlantıları güçlendirdiğini ve bu etkileşimlerin yokluğunun toksik stres tepkisini tetikleyerek beynin yapısını olumsuz etkileyebildiğini ortaya koydu [[5]](https://developingchild.harvard.edu/key-concept/serve-and-return/). İşte kaliteli bir okul öncesi ortam, özellikle dezavantajlı ev ortamlarında eksik kalan bu "yapılandırılmış etkileşim" fırsatlarını çocuğa sunuyor.
 
-> **[Görsel Öneri – İnfografik]:** "Doğumdan 6 Yaşına Beyin Gelişim Haritası" — yaşa göre sinaptik yoğunluk, kritik dönemler (dil, görme, yürütücü işlevler) ve beyin hacmi büyüme yüzdelerini gösteren bir zaman çizelgesi.
+![Beyin gelişimi grafiği](images/260407_Figure_01.jpg)
+*Figür 1: Doğumdan 6 Yaşına Beyin Gelişim Haritası (Harvard Center on the Developing Child; First Things First; Cisneros-Franco vd., 2020)*
 
 ## II. Kanıta Dayalı Bulgular: Uzun Vadeli Etkileri Gösteren Dönüm Noktası Araştırmalar
 
