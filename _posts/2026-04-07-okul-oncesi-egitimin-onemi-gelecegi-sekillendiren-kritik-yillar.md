@@ -24,7 +24,7 @@ Harvard Üniversitesine bağlı *Center on the Developing Child* (Gelişen Çocu
 Beyin mimarisini şekillendiren yalnızca "genetik"" değil, aynı zamanda "çevresel uyaranlar". Nörobilim literatüründe "zenginleştirilmiş ortam" olarak tanımlanan, çok boyutlu uyarıcılar sunan eğitim ortamları, sinaptogenezi (yani sinir hücreleri arasında sinaps adı verilen yeni iletişim bağlantılarının oluşması süreci) artırıyor ve beyin kaynaklı nörotrofik faktör (kıs. BDNF) düzeylerini yükseltiyor [[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7385286/). Harvard'ın geliştirdiği "ver-al etkileşimi" (İng. *serve and return*) modeli, çocuk ile yetişkin arasındaki karşılıklı, anlamlı etkileşimlerin nöral bağlantıları güçlendirdiğini ve bu etkileşimlerin yokluğunun toksik stres tepkisini tetikleyerek beynin yapısını olumsuz etkileyebildiğini ortaya koydu [[5]](https://developingchild.harvard.edu/key-concept/serve-and-return/). İşte kaliteli bir okul öncesi ortam, özellikle dezavantajlı ev ortamlarında eksik kalan bu "yapılandırılmış etkileşim" fırsatlarını çocuğa sunuyor.
 
 ![Beyin Gelişimi Grafiği](images/260407_Figure_01.jpg)
-*Tablo 1: Beynin Doğumdan 6 Yaşa Uzanan Gelişim Haritası (Harvard Center on the Developing Child; First Things First; Cisneros-Franco vd., 2020)*
+*Figür 1: Beynin Doğumdan 6 Yaşa Uzanan Gelişim Haritası (Harvard Center on the Developing Child; First Things First; Cisneros-Franco vd., 2020)*
 
 ## II. Kanıta Dayalı Bulgular: Uzun Vadeli Etkileri Gösteren Dönüm Noktası Araştırmalar
 
@@ -68,7 +68,6 @@ Nobel ödüllü ekonomist James Heckman'ın ortaya koyduğu "Heckman Eğrisi", i
 Bir etkileyici bulgu daha: *RAND Corporation*'ın 115 farklı "erken çocukluk programı"nı incelediği kapsamlı değerlendirmesinde (i) bu programların büyük çoğunluğunun pozitif etki ürettiği, (ii) maliyet-yarar oranlarının harcanan her 1 dolara karşılık 2 ila 4 dolar arasında kazanç ürettiği, (iii) bazı programlarda ise bu getirinin 17 dolara kadar çıktığı saptanmış [[22]](https://www.rand.org/pubs/periodicals/health-quarterly/issues/v7/n4/06.html).
 
 ![Heckman Eğrisi - Yaşa Göre Yatırım Getirisi](images/260407_Figure_02.jpg)
-
 *Figür 2: Heckman Eğrisi - Yaşa Göre Yatırımın Geri Dönüşü (heckmanequation.org)*
 
 ## V. Türkiye'de Okul Öncesi Eğitimin Mevcut Durumu
@@ -108,6 +107,9 @@ Reggio Emilia yaklaşımı üzerine yapılan değerlendirmeler ise bu yaklaşım
 Dijital araçlar, okul öncesi eğitimde hem pedagojik hem de yönetimsel düzeyde dönüştürücü bir potansiyel taşıyor. *UNESCO ECE Accelerator* platformu eğitim teknolojilerinin bu kademede üç temel işlev üstlenebileceğini vurguluyor: Erişimi genişletmek, öğretim kalitesini yükseltmek ve öğrenmeyi kişiselleştirmek [[33]](https://www.ece-accelerator.org/basic-page/digital-learning-and-educational-technology-early-childhood-education-0). Ancak aynı rapor teknolojinin tek başına yeterli olmadığını, gelişimsel olarak uygun uygulamalar ve insan etkileşimi ile desteklenmesi gerektiğini de dile getiriyor. Bu bağlamda Amerikan Pediatri Akademisi'nin (AAP) 2-5 yaş grubu için önerilen günlük ekran süresini en fazla bir saat ile sınırlı tutarken bu etkinliklerde "kaliteli içerik"" işlenmesinin de bir diğer ana kriter olduğunun altını çizdiğini görüyoruz [[34]](https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa-portal-library/qa-portal-library-questions/screen-time-guidelines/). Bu uyarılar teknolojinin eğitimde kullanımının dengeli ve bilinçli bir yaklaşımla yönetilmesi gerektiğini bir kez daha hatırlatıyor.
 
 > **[Görsel Öneri – Tablo]:** "Okul Öncesi Eğitimde Kalite Göstergeleri Kontrol Listesi" — öğretmen nitelikleri, çocuk-öğretmen oranı, müfredat yaklaşımı, fiziksel ortam, veli katılımı ve veriye dayalı izleme gibi boyutları içeren bir değerlendirme matrisi.
+
+![Okul Öncesinde Referanslı Yaklaşımlar Özeti](images/260407_Table_02.jpg)
+*Tablo 2: Okul Öncesinde Referanslı Yaklaşımlar Özeti (NAEYC, 2025; Learning Policy Institute, 2016; FPG Environment Rating Scales; UNESCO ECE Accelerator; OECD Starting Strong VI, 2021)*
 
 ## VII. Sonuç: Erken Yatırıma Geç Kalmamalı
 
