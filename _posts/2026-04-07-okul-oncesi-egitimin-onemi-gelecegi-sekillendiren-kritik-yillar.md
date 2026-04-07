@@ -44,8 +44,6 @@ Arthur Reynolds ve ekibinin 1.539 çocuğu izlediği *Chicago Longitudinal Study
 
 Camilli ve arkadaşlarının 123 karşılaştırmalı çalışmayı analiz ettiği meta-analiz, okul öncesi eğitimin hem bilişsel hem de sosyal sonuçlar üzerinde anlamlı etki büyüklükleri ürettiğini göstermekte [[13]](https://journals.sagepub.com/doi/10.1177/016146811011200303). Çoban ve arkadaşlarının 2023 tarihli meta-analizi de okula hazırbulunuşluk programlarının büyük etki büyüklüğüne sahip olduğunu ortaya koyuyor [[14]](https://epasr.inased.org/makale/4050).
 
-> **[Görsel Öneri – Karşılaştırma Tablosu]:** Perry, Abecedarian ve CPC projelerinin temel bulguları: lise mezuniyet oranı, istihdam, yıllık gelir farkı, suç oranları ve dolar başına toplumsal getiri gibi metrikleri yan yana gösteren bir özet tablo.
-
 ![Perry, Abecedarian ve CPC Uzun Erimli Çalışmalarının Özeti](images/260407_Figure_02.jpg)
 *Figür 2: Perry, Abecedarian ve CPC Projelerinin Özet Bulguları (HighScope, 2005; Heckman vd., 2010; FPG/UNC Follow-Up Studies; Reynolds vd., 2011)*
 
