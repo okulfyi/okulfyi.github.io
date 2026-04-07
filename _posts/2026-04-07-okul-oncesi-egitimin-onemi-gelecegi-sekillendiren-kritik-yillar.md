@@ -106,10 +106,13 @@ Reggio Emilia yaklaşımı üzerine yapılan değerlendirmeler ise bu yaklaşım
 
 Dijital araçlar, okul öncesi eğitimde hem pedagojik hem de yönetimsel düzeyde dönüştürücü bir potansiyel taşıyor. *UNESCO ECE Accelerator* platformu eğitim teknolojilerinin bu kademede üç temel işlev üstlenebileceğini vurguluyor: Erişimi genişletmek, öğretim kalitesini yükseltmek ve öğrenmeyi kişiselleştirmek [[33]](https://www.ece-accelerator.org/basic-page/digital-learning-and-educational-technology-early-childhood-education-0). Ancak aynı rapor teknolojinin tek başına yeterli olmadığını, gelişimsel olarak uygun uygulamalar ve insan etkileşimi ile desteklenmesi gerektiğini de dile getiriyor. Bu bağlamda Amerikan Pediatri Akademisi'nin (AAP) 2-5 yaş grubu için önerilen günlük ekran süresini en fazla bir saat ile sınırlı tutarken bu etkinliklerde "kaliteli içerik"" işlenmesinin de bir diğer ana kriter olduğunun altını çizdiğini görüyoruz [[34]](https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa-portal-library/qa-portal-library-questions/screen-time-guidelines/). Bu uyarılar teknolojinin eğitimde kullanımının dengeli ve bilinçli bir yaklaşımla yönetilmesi gerektiğini bir kez daha hatırlatıyor.
 
-> **[Görsel Öneri – Tablo]:** "Okul Öncesi Eğitimde Kalite Göstergeleri Kontrol Listesi" — öğretmen nitelikleri, çocuk-öğretmen oranı, müfredat yaklaşımı, fiziksel ortam, veli katılımı ve veriye dayalı izleme gibi boyutları içeren bir değerlendirme matrisi.
-
-![Okul Öncesinde Referanslı Yaklaşımlar Özeti](images/260407_Table_02.jpg)
+![Okul Öncesinde Referanslı Yaklaşımlar Özeti](images/260407_Table_02.jpg) 
 *Tablo 2: Okul Öncesinde Referanslı Yaklaşımlar Özeti (NAEYC, 2025; Learning Policy Institute, 2016; FPG Environment Rating Scales; UNESCO ECE Accelerator; OECD Starting Strong VI, 2021)*
+
+<figure>
+  <img src="images/260407_Table_02.jpg" alt="Beyin gelişimi grafiği" style="width: 100%; display: block;">
+  <figcaption><em>Şekil 1: Yaş gruplarına göre beyin gelişimi hızı (Kaynak: XYZ Araştırması, 2024)</em></figcaption>
+</figure>
 
 ## VII. Sonuç: Erken Yatırıma Geç Kalmamalı
 
