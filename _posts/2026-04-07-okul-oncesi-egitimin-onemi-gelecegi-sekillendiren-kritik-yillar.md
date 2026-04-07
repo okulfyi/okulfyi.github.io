@@ -23,8 +23,8 @@ Harvard Üniversitesine bağlı *Center on the Developing Child* (Gelişen Çocu
 
 Beyin mimarisini şekillendiren yalnızca "genetik"" değil, aynı zamanda "çevresel uyaranlar". Nörobilim literatüründe "zenginleştirilmiş ortam" olarak tanımlanan, çok boyutlu uyarıcılar sunan eğitim ortamları, sinaptogenezi (yani sinir hücreleri arasında sinaps adı verilen yeni iletişim bağlantılarının oluşması süreci) artırıyor ve beyin kaynaklı nörotrofik faktör (kıs. BDNF) düzeylerini yükseltiyor [[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7385286/). Harvard'ın geliştirdiği "ver-al etkileşimi" (İng. *serve and return*) modeli, çocuk ile yetişkin arasındaki karşılıklı, anlamlı etkileşimlerin nöral bağlantıları güçlendirdiğini ve bu etkileşimlerin yokluğunun toksik stres tepkisini tetikleyerek beynin yapısını olumsuz etkileyebildiğini ortaya koydu [[5]](https://developingchild.harvard.edu/key-concept/serve-and-return/). İşte kaliteli bir okul öncesi ortam, özellikle dezavantajlı ev ortamlarında eksik kalan bu "yapılandırılmış etkileşim" fırsatlarını çocuğa sunuyor.
 
-![Beyin gelişimi grafiği](images/260407_Figure_01.jpg)
-*Figür 1: Doğumdan 6 Yaşına Beyin Gelişim Haritası (Harvard Center on the Developing Child; First Things First; Cisneros-Franco vd., 2020)*
+![Beyin Gelişimi Grafiği](images/260407_Figure_01.jpg)
+*Figür 1: Beynin Doğumdan 6 Yaşa Uzanan Gelişim Haritası (Harvard Center on the Developing Child; First Things First; Cisneros-Franco vd., 2020)*
 
 ## II. Kanıta Dayalı Bulgular: Uzun Vadeli Etkileri Gösteren Dönüm Noktası Araştırmalar
 
@@ -45,6 +45,9 @@ Arthur Reynolds ve ekibinin 1.539 çocuğu izlediği *Chicago Longitudinal Study
 Camilli ve arkadaşlarının 123 karşılaştırmalı çalışmayı analiz ettiği meta-analiz, okul öncesi eğitimin hem bilişsel hem de sosyal sonuçlar üzerinde anlamlı etki büyüklükleri ürettiğini göstermekte [[13]](https://journals.sagepub.com/doi/10.1177/016146811011200303). Çoban ve arkadaşlarının 2023 tarihli meta-analizi de okula hazırbulunuşluk programlarının büyük etki büyüklüğüne sahip olduğunu ortaya koyuyor [[14]](https://epasr.inased.org/makale/4050).
 
 > **[Görsel Öneri – Karşılaştırma Tablosu]:** Perry, Abecedarian ve CPC projelerinin temel bulguları: lise mezuniyet oranı, istihdam, yıllık gelir farkı, suç oranları ve dolar başına toplumsal getiri gibi metrikleri yan yana gösteren bir özet tablo.
+
+![Perry, Abecedarian ve CPC Uzun Erimli Çalışmalarının Özeti](images/260407_Figure_02.jpg)
+*Figür 2: Perry, Abecedarian ve CPC Projelerinin Özet Bulguları (HighScope, 2005; Heckman vd., 2010; FPG/UNC Follow-Up Studies; Reynolds vd., 2011)*
 
 ## III. Sosyal-Duygusal Gelişim ve Okula Hazırbulunuşluk
 
