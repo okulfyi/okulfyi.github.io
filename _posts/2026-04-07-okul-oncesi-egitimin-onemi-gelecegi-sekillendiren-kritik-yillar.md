@@ -109,11 +109,6 @@ Dijital araçlar, okul öncesi eğitimde hem pedagojik hem de yönetimsel düzey
 ![Okul Öncesinde Referanslı Yaklaşımlar Özeti](images/260407_Table_02.jpg) 
 *Tablo 2: Okul Öncesinde Referanslı Yaklaşımlar Özeti (NAEYC, 2025; Learning Policy Institute, 2016; FPG Environment Rating Scales; UNESCO ECE Accelerator; OECD Starting Strong VI, 2021)*
 
-<figure>
-  <img src="images/260407_Table_02.jpg" alt="Beyin gelişimi grafiği" style="width: 100%; display: block;">
-  <figcaption><em>Şekil 1: Yaş gruplarına göre beyin gelişimi hızı (Kaynak: XYZ Araştırması, 2024)</em></figcaption>
-</figure>
-
 ## VII. Sonuç: Erken Yatırıma Geç Kalmamalı
 
 Nörobilimden ekonomiye, uzun erimli çalışmalardan uluslararası karşılaştırmalara uzanan kanıt tabanı tek bir mesajda birleşiyor: Okul öncesi eğitim bir "ön hazırlık" değil yaşam boyu başarının temel taşı. Az sayıda öğrenciden oluşan sınıflar, kanıtlanmış müfredatlar, süreçlerin tamamını "ölçümlenebilir" kılan veriye dayalı yönetim sistemleri ve en önemlisi, nitelikli **öğretmen**ler, kuşkusuz bu stratejinin vazgeçilmez bileşenleri oldular ve olmaya da devam edecekler.
